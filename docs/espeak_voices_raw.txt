@@ -1,0 +1,223 @@
+﻿Pty Language       Age/Gender VoiceName          File                 Other Languages
+ 5  af              --/M      Afrikaans          gmw\af               
+ 7  af              --/M      afrikaans-mbrola-1 mb\mb-af1            
+ 5  am              --/M      Amharic            sem\am               
+ 5  an              --/M      Aragonese          roa\an               
+ 1  ar              --/M      arabic-mbrola-1    mb\mb-ar1            
+ 2  ar              --/M      arabic-mbrola-2    mb\mb-ar2            
+ 5  ar              --/M      Arabic             sem\ar               
+ 5  as              --/M      Assamese           inc\as               
+ 5  az              --/M      Azerbaijani        trk\az               
+ 5  ba              --/M      Bashkir            trk\ba               
+ 5  be              --/M      Belarusian         zle\be               
+ 5  bg              --/M      Bulgarian          zls\bg               
+ 5  bn              --/M      Bengali            inc\bn               
+ 5  bpy             --/M      Bishnupriya_Manipuri inc\bpy              
+ 5  bs              --/M      Bosnian            zls\bs               
+ 5  ca              --/M      Catalan            roa\ca               
+ 5  chr-US-Qaaa-x-west --/M      Cherokee_          iro\chr              
+ 5  cmn             --/M      Chinese_(Mandarin,_latin_as_English) sit\cmn              (zh-cmn 5)(zh 5)
+ 5  cmn-latn-pinyin --/M      Chinese_(Mandarin,_latin_as_Pinyin) sit\cmn-Latn-pinyin  (zh-cmn 5)(zh 5)
+ 1  cs              --/F      czech-mbrola-1     mb\mb-cz1            
+ 2  cs              --/M      czech-mbrola-2     mb\mb-cz2            
+ 5  cs              --/M      Czech              zlw\cs               
+ 5  cv              --/M      Chuvash            trk\cv               
+ 5  cy              --/M      Welsh              cel\cy               
+ 5  da              --/M      Danish             gmq\da               
+ 5  de              --/M      German             gmw\de               
+ 6  de              --/F      german-mbrola-1    mb\mb-de1            
+ 6  de              --/M      german-mbrola-2    mb\mb-de2            
+ 6  de              --/F      german-mbrola-3    mb\mb-de3            
+ 6  de              --/M      german-mbrola-4    mb\mb-de4            
+ 6  de              --/M      german-mbrola-6    mb\mb-de6            
+ 7  de              --/F      german-mbrola-5    mb\mb-de5            
+ 7  de              --/F      german-mbrola-7    mb\mb-de7            
+ 8  de              --/M      german-mbrola-8    mb\mb-de8            
+ 2  el              --/M      greek-mbrola-2     mb\mb-gr2            
+ 5  el              --/M      Greek              grk\el               
+ 7  el              --/M      greek-mbrola-1     mb\mb-gr1            
+ 9  en              --/F      en-german-1        mb\mb-de1-en         
+ 9  en              --/M      en-german-2        mb\mb-de2-en         
+ 9  en              --/F      en-german-3        mb\mb-de3-en         
+ 9  en              --/M      en-german-4        mb\mb-de4-en         
+ 9  en              --/F      en-german-5        mb\mb-de5-en         
+ 9  en              --/M      en-german-6        mb\mb-de6-en         
+ 9  en              --/M      en-greek           mb\mb-gr2-en         
+ 9  en              --/M      en-romanian        mb\mb-ro1-en         
+10  en              --/M      en-dutch           mb\mb-nl2-en         
+10  en              --/M      en-french-1        mb\mb-fr1-en         
+10  en              --/F      en-french-4        mb\mb-fr4-en         
+10  en              --/F      en-hungarian       mb\mb-hu1-en         
+10  en              --/F      en-swedish-f       mb\mb-sw2-en         
+11  en              --/M      en-afrikaans       mb\mb-af1-en         
+11  en              --/F      en-polish          mb\mb-pl1-en         
+11  en              --/M      en-swedish         mb\mb-sw1-en         
+ 5  en-029          --/M      English_(Caribbean) gmw\en-029           (en 10)
+ 2  en-gb           --/M      English_(Great_Britain) gmw\en               (en 2)
+ 5  en-gb-scotland  --/M      English_(Scotland) gmw\en-GB-scotland   (en 4)
+ 5  en-gb-x-gbclan  --/M      English_(Lancaster) gmw\en-GB-x-gbclan   (en-gb 3)(en 5)
+ 5  en-gb-x-gbcwmd  --/M      English_(West_Midlands) gmw\en-GB-x-gbcwmd   (en-gb 9)(en 9)
+ 5  en-gb-x-rp      --/M      English_(Received_Pronunciation) gmw\en-GB-x-rp       (en-gb 4)(en 5)
+ 3  en-uk           --/M      english-mb-en1     mb\mb-en1            (en-gb 3)(en 2)
+ 2  en-us           --/M      English_(America)  gmw\en-US            (en 3)
+ 5  en-us           --/F      us-mbrola-1        mb\mb-us1            (en 8)
+ 5  en-us           --/M      us-mbrola-2        mb\mb-us2            (en 7)
+ 5  en-us           --/M      us-mbrola-3        mb\mb-us3            (en 8)
+ 5  en-us-nyc       --/M      English_(America,_New_York_City) gmw\en-US-nyc        
+ 5  eo              --/M      Esperanto          art\eo               
+ 5  es              --/M      Spanish_(Spain)    roa\es               
+ 5  es-419          --/M      Spanish_(Latin_America) roa\es-419           (es-mx 6)
+ 3  es-es           --/F      spanish-mbrola-3   mb\mb-es3            (es 3)
+ 4  es-es           --/M      spanish-mbrola-4   mb\mb-es4            (es 4)
+ 7  es-es           --/M      spanish-mbrola-1   mb\mb-es1            (es 7)
+ 7  es-es           --/M      spanish-mbrola-2   mb\mb-es2            (es 7)
+ 7  es-mx           --/M      mexican-mbrola-1   mb\mb-mx1            (es 8)
+ 7  es-mx           --/M      mexican-mbrola-2   mb\mb-mx2            (es 8)
+ 7  es-vz           --/M      venezuala-mbrola-1 mb\mb-vz1            (es 8)
+ 5  et              --/M      Estonian           urj\et               
+ 5  et              --/M      estonian-mbrola-1  mb\mb-ee1            
+ 5  eu              --/M      Basque             eu                   
+ 5  fa              --/M      Persian            ira\fa               
+ 5  fa              --/M      persian-mb-ir1     mb\mb-ir1            
+ 5  fa-latn         --/M      Persian_(Pinglish) ira\fa-Latn          
+ 5  fi              --/M      Finnish            urj\fi               
+ 5  fo              --/M      Faroese            gmq\fo               
+ 8  fr              --/M      french-mbrola-7    mb\mb-fr7            
+ 5  fr-be           --/M      French_(Belgium)   roa\fr-BE            (fr 8)
+ 6  fr-be           --/M      french-mbrola-5    mb\mb-fr5            (fr 9)
+ 6  fr-ca           --/M      fr-canadian-mbrola-1 mb\mb-ca1            (fr 10)
+ 6  fr-ca           --/M      fr-canadian-mbrola-2 mb\mb-ca2            (fr 10)
+ 5  fr-ch           --/M      French_(Switzerland) roa\fr-CH            (fr 8)
+ 5  fr-fr           --/M      French_(France)    roa\fr               (fr 5)
+ 7  fr-fr           --/M      french-mbrola-1    mb\mb-fr1            (fr 7)
+ 7  fr-fr           --/F      french-mbrola-4    mb\mb-fr4            (fr 7)
+ 8  fr-fr           --/F      french-mbrola-2    mb\mb-fr2            (fr 8)
+ 8  fr-fr           --/M      french-mbrola-3    mb\mb-fr3            (fr 8)
+ 8  fr-fr           --/M      french-mbrola-6    mb\mb-fr6            (fr 8)
+ 5  ga              --/M      Gaelic_(Irish)     cel\ga               
+ 5  gd              --/M      Gaelic_(Scottish)  cel\gd               
+ 5  gn              --/M      Guarani            sai\gn               
+ 5  grc             --/M      Greek_(Ancient)    grk\grc              
+ 6  grc             --/M      german-mbrola-6    mb\mb-de6-grc        
+ 5  gu              --/M      Gujarati           inc\gu               
+ 5  hak             --/M      Hakka_Chinese      sit\hak              
+ 5  haw             --/M      Hawaiian           map\haw              
+ 5  he              --/M      Hebrew             sem\he               
+ 5  he              --/M      hebrew-mbrola-1    mb\mb-hb1            
+ 5  he              --/F      hebrew-mbrola-2    mb\mb-hb2            
+ 1  hi              --/M      hindi-mbrola-1     mb\mb-in1            
+ 2  hi              --/F      hindi-mbrola-2     mb\mb-in2            
+ 5  hi              --/M      Hindi              inc\hi               
+ 5  hr              --/M      Croatian           zls\hr               (hbs 5)
+ 7  hr              --/M      croatian-mbrola-1  mb\mb-cr1            
+ 5  ht              --/M      Haitian_Creole     roa\ht               
+ 5  hu              --/M      Hungarian          urj\hu               
+ 7  hu              --/F      hungarian-mbrola-1 mb\mb-hu1            
+ 5  hy              --/M      Armenian_(East_Armenia) ine\hy               (hy-arevela 5)
+ 5  hyw             --/M      Armenian_(West_Armenia) ine\hyw              (hy-arevmda 5)(hy 8)
+ 5  ia              --/M      Interlingua        art\ia               
+ 5  id              --/M      Indonesian         poz\id               
+ 7  id              --/M      indonesian-mbrola-1 mb\mb-id1            
+ 5  io              --/M      Ido                art\io               
+ 5  is              --/M      Icelandic          gmq\is               
+ 6  is              --/M      icelandic-mbrola-1 mb\mb-ic1            
+ 5  it              --/M      Italian            roa\it               
+ 7  it              --/M      italian-mbrola-3   mb\mb-it3            
+ 7  it              --/F      italian-mbrola-4   mb\mb-it4            
+ 8  it              --/M      italian-mbrola-1   mb\mb-it1            
+ 8  it              --/F      italian-mbrola-2   mb\mb-it2            
+ 1  ja              --/M      japanese-mbrola-1  mb\mb-jp1            
+ 2  ja              --/F      japanese-mbrola-2  mb\mb-jp2            
+ 3  ja              --/F      japanese-mbrola-3  mb\mb-jp3            
+ 5  ja              --/M      Japanese           jpx\ja               
+ 5  jbo             --/M      Lojban             art\jbo              
+ 5  ka              --/M      Georgian           ccs\ka               
+ 5  kk              --/M      Kazakh             trk\kk               
+ 5  kl              --/M      Greenlandic        esx\kl               
+ 5  kn              --/M      Kannada            dra\kn               
+ 5  ko              --/M      Korean             ko                   
+ 5  kok             --/M      Konkani            inc\kok              
+ 5  ku              --/M      Kurdish            ira\ku               
+ 5  ky              --/M      Kyrgyz             trk\ky               
+ 5  la              --/M      Latin              itc\la               
+ 7  la              --/M      latin-mbrola-1     mb\mb-la1            
+ 5  lb              --/M      Luxembourgish      gmw\lb               
+ 5  lfn             --/M      Lingua_Franca_Nova art\lfn              
+ 5  lt              --/M      Lithuanian         bat\lt               
+ 7  lt              --/M      lithuanian-mbrola-1 mb\mb-lt1            
+ 7  lt              --/M      lithuanian-mbrola-2 mb\mb-lt2            
+ 5  ltg             --/M      Latgalian          bat\ltg              
+ 5  lv              --/M      Latvian            bat\lv               
+ 5  mi              --/M      Māori             poz\mi               
+ 5  mi              --/M      maori-mbrola-1     mb\mb-nz1            
+ 5  mk              --/M      Macedonian         zls\mk               
+ 5  ml              --/M      Malayalam          dra\ml               
+ 5  mr              --/M      Marathi            inc\mr               
+ 1  ms              --/F      malay-mbrola-1     mb\mb-ma1            
+ 5  ms              --/M      Malay              poz\ms               
+ 5  mt              --/M      Maltese            sem\mt               
+ 5  my              --/M      Myanmar_(Burmese)  sit\my               
+ 5  nb              --/M      Norwegian_Bokmål  gmq\nb               (no 5)
+ 5  nci             --/M      Nahuatl_(Classical) azc\nci              
+ 5  ne              --/M      Nepali             inc\ne               
+ 5  nl              --/M      Dutch              gmw\nl               
+ 7  nl              --/M      dutch-mbrola-2     mb\mb-nl2            
+ 9  nl              --/M      dutch-mbrola-1     mb\mb-nl1            
+ 9  nl              --/F      dutch-mbrola-3     mb\mb-nl3            
+ 5  nog             --/M      Nogai              trk\nog              
+ 5  om              --/M      Oromo              cus\om               
+ 5  or              --/M      Oriya              inc\or               
+ 5  pa              --/M      Punjabi            inc\pa               
+ 5  pap             --/M      Papiamento         roa\pap              
+ 5  piqd            --/M      Klingon            art\piqd             
+ 5  pl              --/M      Polish             zlw\pl               
+ 7  pl              --/F      polish-mbrola-1    mb\mb-pl1            
+ 5  pt              --/M      Portuguese_(Portugal) roa\pt               (pt-pt 5)
+ 5  pt-br           --/M      Portuguese_(Brazil) roa\pt-BR            (pt 6)
+ 6  pt-br           --/M      brazil-mbrola-1    mb\mb-br1            (pt 8)
+ 6  pt-br           --/F      brazil-mbrola-2    mb\mb-br2            (pt 8)
+ 6  pt-br           --/M      brazil-mbrola-3    mb\mb-br3            (pt 8)
+ 6  pt-br           --/F      brazil-mbrola-4    mb\mb-br4            (pt 8)
+ 7  pt-pt           --/F      portugal-mbrola-1  mb\mb-pt1            (pt 7)
+ 5  py              --/M      Pyash              art\py               
+ 5  qdb             --/M      Lang_Belta         art\qdb              
+ 5  qu              --/M      Quechua            qu                   
+ 5  quc             --/M      K'iche'            myn\quc              
+ 5  qya             --/M      Quenya             art\qya              
+ 5  ro              --/M      Romanian           roa\ro               
+ 7  ro              --/M      romanian-mbrola-1  mb\mb-ro1            
+ 5  ru              --/M      Russian            zle\ru               
+ 2  ru-lv           --/M      Russian_(Latvia)   zle\ru-LV            
+ 5  sd              --/M      Sindhi             inc\sd               
+ 5  shn             --/M      Shan_(Tai_Yai)     tai\shn              
+ 5  si              --/M      Sinhala            inc\si               
+ 5  sjn             --/M      Sindarin           art\sjn              
+ 5  sk              --/M      Slovak             zlw\sk               
+ 5  sl              --/M      Slovenian          zls\sl               
+ 5  smj             --/M      Lule_Saami         urj\smj              
+ 5  sq              --/M      Albanian           ine\sq               
+ 5  sr              --/M      Serbian            zls\sr               
+ 5  sv              --/M      Swedish            gmq\sv               
+ 7  sv              --/M      swedish-mbrola-1   mb\mb-sw1            
+ 8  sv              --/F      swedish-mbrola-2   mb\mb-sw2            
+ 5  sw              --/M      Swahili            bnt\sw               
+ 5  ta              --/M      Tamil              dra\ta               
+ 5  te              --/M      Telugu             dra\te               
+ 5  te              --/F      telugu-mbrola-1    mb\mb-tl1            
+ 5  th              --/M      Thai               tai\th               
+ 5  tk              --/M      Turkmen            trk\tk               
+ 5  tn              --/M      Setswana           bnt\tn               
+ 5  tr              --/M      Turkish            trk\tr               
+ 7  tr              --/F      turkish-mbrola-1   mb\mb-tr2            
+ 7  tr              --/M      turkish-mbrola-1   mb\mb-tr1            
+ 5  tt              --/M      Tatar              trk\tt               
+ 5  ug              --/M      Uyghur             trk\ug               
+ 5  uk              --/M      Ukrainian          zle\uk               
+ 5  ur              --/M      Urdu               inc\ur               
+ 5  uz              --/M      Uzbek              trk\uz               
+ 5  vi              --/M      Vietnamese_(Northern) aav\vi               
+ 5  vi-vn-x-central --/M      Vietnamese_(Central) aav\vi-VN-x-central  
+ 5  vi-vn-x-south   --/M      Vietnamese_(Southern) aav\vi-VN-x-south    
+ 5  yue             --/M      Chinese_(Cantonese) sit\yue              (zh-yue 5)(zh 8)
+ 5  yue             --/M      Chinese_(Cantonese,_latin_as_Jyutping) sit\yue-Latn-jyutping (zh-yue 5)(zh 8)
+ 5  zh              --/M      chinese-mb-cn1     mb\mb-cn1            

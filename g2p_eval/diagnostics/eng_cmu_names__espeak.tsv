@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+abadi               	ə b ˈæ d i                  	ɐbˈædi                      	0.20	0.07
+abner               	ˈæ b n ɚ                    	ɐbnˈɜː                      	0.50	0.31
+adame               	ɑ d ˈɑ m i                  	ˈædeɪm                      	0.80	0.60
+addition            	ə d ˈɪ ʃ ə n                	ɐdˈɪʃən                     	0.17	0.06
+agan                	ˈeɪ g ə n                   	ˈæɡən                       	0.40	0.25
+aidid               	ˌaɪ d ˈi d                  	ˈeɪdɪd                      	0.40	0.12
+alas                	ə l ˈæ s                    	ɐlˈæs                       	0.25	0.09
+alcide              	ˈæ l s ˌaɪ d                	ˈælsaɪd                     	0.00	0.00
+ali                 	ˈɑ l i                      	ˈɑːli                       	0.33	0.08
+aliyah              	ə l ˈi ə                    	ˈælɪjə                      	0.75	0.44
+aloysia             	ɑ l ˈɔɪ s i ə               	ɐlˈɔɪʒə                     	0.43	0.30
+alvarado            	ˌæ l v ɚ ˈɑ d oʊ            	ˌælvɐɹˈɑːdoʊ                	0.38	0.28
+alvino              	ɑ l v ˈi n oʊ               	ælvˈiːnoʊ                   	0.29	0.09
+alyce               	ˈæ l ɪ s                    	ˈælaɪs                      	0.25	0.25
+anglin              	ˈæ ŋ g l ɪ n                	ˈæŋɡlɪn                     	0.00	0.00
+ansel               	ə n s ˈɛ l                  	ˈænsəl                      	0.40	0.17
+antoni              	ɑ n t ˈoʊ n i               	æntˈoʊni                    	0.14	0.05
+arafat              	ˈɛ ɹ ə f æ t                	ˈæɹɐfˌæt                    	0.33	0.12
+ariella             	ɑ ɹ i ˈɛ l ə                	ˌæɹɪˈɛlə                    	0.33	0.08
+arlington           	ˈɑ ɹ l ɪ ŋ t ə n            	ˈɑːɹlɪŋtən                  	0.12	0.03
+aron                	ˈɛ ɹ ə n                    	ˈæɹən                       	0.25	0.09
+artful              	ˈɑ ɹ t f ə l                	ˈɑːɹtfəl                    	0.17	0.04
+article             	ˈɑ ɹ t ə k ə l              	ˈɑːɹɾɪkəl                   	0.43	0.25
+ashe                	ˈæ ʃ                        	ˈæʃ                         	0.00	0.00
+astro               	ˈæ s t ɹ oʊ                 	ˈæstɹoʊ                     	0.00	0.00

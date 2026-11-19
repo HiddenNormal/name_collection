@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+abacha              	ˈæ b ə k ə                  	əˈbɑkə                      	0.40	0.23
+abadi               	ə b ˈæ d i                  	əˈbɑdi                      	0.20	0.07
+abboud              	ə b ˈu d                    	əˈbud                       	0.00	0.00
+abdella             	ˌæ b d ˈɛ l ə               	ˌæbˈdɛɫə                    	0.00	0.00
+abdollah            	ˌæ b d ˈɑ l ə               	ˌæbˈdɑɫə                    	0.00	0.00
+abee                	ə b ˈi                      	əˈbiz                       	0.33	0.33
+abet                	ə b ˈɛ t                    	ˈæbɪt                       	0.50	0.22
+abiam               	ˈeɪ b i ə m                 	ˈeɪbiəm                     	0.00	0.00
+abigail             	ˈæ b ə g ˌeɪ l              	ˈæbɪˌɡeɪɫ                   	0.14	0.07
+abimael             	ˌæ b ɪ m ˈeɪ l              	ˈæbɪˌmeɪɫ                   	0.00	0.00
+abner               	ˈæ b n ɚ                    	ˈæbnɝ                       	0.25	0.00
+abood               	ə b ˈu d                    	əˈbud                       	0.00	0.00
+abou                	ə b ˈu                      	əˈbu                        	0.00	0.00
+acevedo             	æ s ə v ˈeɪ d oʊ            	ɑtʃeɪˈveɪdoʊ                	0.44	0.31
+acey                	ˈeɪ s i                     	ˈeɪsi                       	0.00	0.00
+ach                 	ˈeɪ s ˈi ˈeɪ tʃ             	ˈeɪˈsiˈeɪˈsi                	0.29	0.29
+achille             	ə k ˈɪ l i                  	əˈtʃɪɫə                     	0.40	0.33
+acosta              	ə k ˈɔ s t ə                	əˈkɑstə                     	0.17	0.12
+ad                  	ˈæ d                        	ˈeɪˈdiˈeɪ                   	2.50	2.12
+adalia              	ɑ d ˈɑ l i ə                	əˈdeɪɫjə                    	0.67	0.52
+adame               	ɑ d ˈɑ m i                  	ˈædəmɛp                     	0.80	0.45
+adams               	ˈæ d ə m z                  	ˈædəmz                      	0.00	0.00
+adan                	ˈeɪ d ə n                   	ˈædən                       	0.40	0.25
+adar                	ə d ˈɑ ɹ                    	ˈædɑɹ                       	0.25	0.16
+addition            	ə d ˈɪ ʃ ə n                	əˈdɪʃənə                    	0.17	0.17

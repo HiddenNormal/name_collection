@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+라멘                  	ɾ a̠ m e̞ n                 	ɾˈɐmen                      	0.40	0.10
+사서오경                	sʰ a̠ sʰ ʌ̹ o̞ ɡ j ʌ̹ ŋ     	sˈɐsʌˌoqjʌŋ                 	0.78	0.19
+음탕하다                	ɯ m tʰ a̠ ŋ ɦ a̠ d a̠       	ˈɯmthɐŋhˌɐdɐ                	0.67	0.31
+뻔뻔하다                	p͈ ʌ̹ n p͈ ʌ̹ n ɦ a̠ d a̠   	p-ˈʌnp-ʌnhˌɐdɐ              	0.90	0.31
+강연                  	k a̠ ŋ j ʌ̹ n               	ɡˈɐŋjʌn                     	0.50	0.25
+야채공포증               	j a̠ t͡ɕʰ e̞ ɡ o̞ ŋ pʰ o̞ t͡ɕ͈ ɯ ŋ	jˈɐtʃhɛqˌoŋphodʑˌɯŋ         	0.83	0.39
+헥토르                 	h e̞ k̚ tʰ o̞ ɾ ɯ           	hˈeqthoɾˌɯ                  	0.71	0.20
+날아오르다               	n a̠ ɾ a̠ o̞ ɾ ɯ d a̠       	nˈɐɾɐˌoɾɯdˌɐ                	0.44	0.17
+뇌까리다                	n w e̞ k͈ a̠ ɾ i d a̠       	nwˈeq-ɐɾˌidɐ                	0.56	0.25
+악성종양                	a̠ k s͈ ʌ̹ ŋ d͡ʑ o̞ ŋ j a̠ ŋ	ˈɐqs-ʌŋdʑˌoŋjɐŋ             	0.64	0.20
+조지아어                	t͡ɕ o̞ d͡ʑ i a̠ ʌ̹          	tɕˈodʑiˌɐʌ                  	0.50	0.08
+익사하다                	i k s͈ a̠ ɦ a̠ d a̠         	ˈiqs-ɐhˌɐdɐ                 	0.88	0.36
+수꿩                  	sʰ u k͈ w ʌ̹ ŋ              	sˈuq-wʌŋ                    	0.67	0.23
+까꿍                  	k͈ a̠ k͈ u ŋ                	q-ɐq-ˈuŋ                    	1.00	0.60
+리몬첼로                	ɾ i m o̞ ɲ t͡ɕʰ e̞ ɭ ɭ o̞   	ɾˈimontʃhˌelo               	0.70	0.41
+부정적분                	p u d͡ʑ ʌ̹ ŋ d͡ʑ ʌ̹ k̚ p͈ u n	pudʑˈʌŋdʑʌqp-ˌun            	0.45	0.11
+귀구멍                 	k ɥ i ɡ u m ʌ̹ ŋ            	ɡwiqˈumʌŋ                   	0.50	0.30
+공산주의                	k o̞ ŋ sʰ a̠ ɲ d͡ʑ u i      	ɡˈoŋsɐndʑˌuɯj               	0.78	0.42
+북마케도니아              	p u ŋ m a̠ kʰ e̞ d o̞ n i a̠	pˈuqmɐkhˌedonˌiɐ            	0.58	0.26
+모시                  	m o̞ ɕʰ i                   	mˈosi                       	0.50	0.25
+부수                  	p u sʰ u                    	pˈusu                       	0.25	0.03
+탐험                  	tʰ a̠ m ɦ ʌ̹ m              	thˈɐmhʌm                    	0.83	0.29
+무소유                 	m u sʰ o̞ j u               	mˈusojˌu                    	0.33	0.02
+대시보드                	t e̞ ɕ͈ i b o̞ d ɯ          	dˈɛsibˌodɯ                  	0.50	0.14
+주목                  	t͡ɕ u m o̞ k̚               	tɕˈumoq                     	0.40	0.05

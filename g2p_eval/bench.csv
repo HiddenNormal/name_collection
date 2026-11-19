@@ -1,0 +1,136 @@
+language,base_language,engine,n_gold,n_eval,covered,full_lexicon_name_coverage,per_feat,per_bare,exact_bare,stress_acc,stress_n,stress_emit,tone_acc,tone_n,tokens_per_sec,nonempty_rate,notes
+ara,ara,espeak,400,400,1.0,0.1124,0.1788,0.2199,0.32,,0,0.9325,,0,38002.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ara,ara,wikipron-lexicon,400,400,0.0,0.1124,1.0,1.0,0.0,,0,0.0,,0,29088.2,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+ara,ara,latin-approx,400,400,1.0,0.1124,0.9996,1.0,0.0,,0,0.0,,0,199467.6,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ara,ara,raw-grapheme,400,400,1.0,0.1124,0.9996,1.0,0.0,,0,0.0,,0,158965.5,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ara,ara,epitran,400,400,1.0,0.1124,0.3564,0.3916,0.0275,,0,0.0,,0,29584.8,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ces,ces,espeak,400,400,1.0,0.2432,0.0413,0.1874,0.205,,0,1.0,,0,27545.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ces,ces,wikipron-lexicon,400,400,0.0,0.2432,1.0,1.0,0.0,,0,0.0,,0,3856.6,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+ces,ces,latin-approx,400,400,1.0,0.2432,0.1848,0.4069,0.04,,0,0.0,,0,159691.8,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ces,ces,raw-grapheme,400,400,1.0,0.2432,0.1737,0.4061,0.04,,0,0.0,,0,398130.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ces,ces,epitran,400,400,1.0,0.2432,0.0618,0.1862,0.28,,0,0.0,,0,13085.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+cmn,cmn,espeak,400,400,1.0,0.0218,0.6548,0.8105,0.0,,0,0.995,0.0,400,26590.8,1.0,gold has no stress marks (WikiPron); stress_acc n/a; tone digits compared separately
+cmn,cmn,espeak-plus,400,400,1.0,0.0218,0.6565,0.8095,0.0,,0,1.0,0.0,400,856.1,1.0,gold has no stress marks (WikiPron); stress_acc n/a; tone digits compared separately
+cmn,cmn,wikipron-lexicon,400,400,0.0,0.0218,1.0,1.0,0.0,,0,0.0,,0,1665.8,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+cmn,cmn,latin-approx,400,400,1.0,0.0218,0.9238,1.0,0.0,,0,0.0,0.0,400,99882.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+cmn,cmn,raw-grapheme,400,400,1.0,0.0218,0.9238,1.0,0.0,,0,0.0,0.0,400,265252.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+cmn,cmn,epitran,400,400,1.0,0.0218,0.5077,0.7949,0.0,,0,0.0,0.0,400,11401.1,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+dan,dan,espeak,400,400,1.0,0.0204,0.4078,0.5561,0.03,,0,0.995,,0,13458.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+dan,dan,wikipron-lexicon,400,400,0.0,0.0204,1.0,1.0,0.0,,0,0.0,,0,114068.6,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+dan,dan,latin-approx,400,400,1.0,0.0204,0.2311,0.4307,0.0575,,0,0.0,,0,199515.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+dan,dan,raw-grapheme,400,400,1.0,0.0204,0.2068,0.4132,0.075,,0,0.0,,0,199990.7,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+deu,deu,espeak,400,400,1.0,0.0952,0.1897,0.2584,0.1175,,0,1.0,,0,33240.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+deu,deu,wikipron-lexicon,400,400,0.0,0.0952,1.0,1.0,0.0,,0,0.0,,0,23504.4,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+deu,deu,latin-approx,400,400,1.0,0.0952,0.3923,0.6408,0.0,,0,0.0,,0,133089.1,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+deu,deu,raw-grapheme,400,400,1.0,0.0952,0.4356,0.6935,0.0,,0,0.0,,0,199538.7,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+deu,deu,epitran,400,400,1.0,0.0952,0.2132,0.3114,0.0725,,0,0.0,,0,6475.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ell,ell,espeak,400,400,1.0,0.0286,0.0281,0.0742,0.535,,0,1.0,,0,38058.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ell,ell,wikipron-lexicon,400,400,0.0,0.0286,1.0,1.0,0.0,,0,0.0,,0,20827.5,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+ell,ell,latin-approx,400,400,1.0,0.0286,1.0282,1.0542,0.0,,0,0.0,,0,199491.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ell,ell,raw-grapheme,400,400,1.0,0.0286,1.0282,1.0542,0.0,,0,0.0,,0,158965.5,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+eng,eng,espeak,400,400,1.0,0.3654,0.1132,0.1717,0.345,,0,1.0,,0,23807.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+eng,eng,wikipron-lexicon,400,400,0.0,0.3654,1.0,1.0,0.0,,0,0.0,,0,5467.3,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+eng,eng,latin-approx,400,400,1.0,0.3654,0.4225,0.6363,0.0,,0,0.0,,0,113782.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+eng,eng,raw-grapheme,400,400,1.0,0.3654,0.466,0.7162,0.0,,0,0.0,,0,199919.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+eng_cmu,eng,espeak,400,400,1.0,0.3654,0.1163,0.194,0.3075,0.7,400,0.9975,,0,18551.9,1.0,
+eng_cmu,eng,wikipron-lexicon,400,400,0.21,0.3654,0.8058,0.8167,0.1125,0.0,84,0.0,,0,5527.3,0.21,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+eng_cmu,eng,latin-approx,400,400,1.0,0.3654,0.43,0.6565,0.0025,0.0,400,0.0,,0,133290.0,1.0,
+eng_cmu,eng,raw-grapheme,400,400,1.0,0.3654,0.4574,0.7161,0.0025,0.0,400,0.0,,0,200109.9,1.0,
+eng_cmu_names,eng,espeak,400,400,1.0,0.3654,0.1174,0.2099,0.3825,0.81,400,0.9975,,0,24193.1,1.0,
+eng_cmu_names,eng,wikipron-lexicon,400,400,0.285,0.3654,0.7338,0.7504,0.1825,0.0,114,0.0,,0,5349.9,0.285,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+eng_cmu_names,eng,latin-approx,400,400,1.0,0.3654,0.4057,0.6235,0.0025,0.0,400,0.0,,0,159146.4,1.0,
+eng_cmu_names,eng,raw-grapheme,400,400,1.0,0.3654,0.4336,0.6816,0.0025,0.0,400,0.0,,0,158769.9,1.0,
+fin,fin,espeak,400,400,1.0,0.2544,0.113,0.2893,0.045,,0,1.0,,0,61412.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+fin,fin,wikipron-lexicon,400,400,0.0,0.2544,1.0,1.0,0.0,,0,0.0,,0,1795.5,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+fin,fin,latin-approx,400,400,1.0,0.2544,0.2277,0.3992,0.0275,,0,0.0,,0,199325.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+fin,fin,raw-grapheme,400,400,1.0,0.2544,0.1958,0.3687,0.0375,,0,0.0,,0,159479.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+fin,fin,epitran,400,400,1.0,0.2544,0.0748,0.1653,0.135,,0,0.0,,0,15224.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+fra,fra,espeak,400,400,1.0,0.236,0.0322,0.0674,0.6725,,0,1.0,,0,17355.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+fra,fra,wikipron-lexicon,400,400,0.0,0.236,1.0,1.0,0.0,,0,0.0,,0,4515.6,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+fra,fra,latin-approx,400,400,1.0,0.236,0.5927,0.7805,0.0025,,0,0.0,,0,199752.5,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+fra,fra,raw-grapheme,400,400,1.0,0.236,0.6214,0.84,0.0025,,0,0.0,,0,159131.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+fra,fra,epitran,400,400,1.0,0.236,0.1886,0.2352,0.1975,,0,0.0,,0,7817.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+heb,heb,espeak,400,400,1.0,0.0322,0.4641,0.4946,0.025,,0,0.455,,0,66481.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+heb,heb,wikipron-lexicon,400,400,0.0,0.0322,1.0,1.0,0.0,,0,0.0,,0,200038.3,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+heb,heb,latin-approx,400,400,1.0,0.0322,0.9907,1.0066,0.0,,0,0.0,,0,265001.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+heb,heb,raw-grapheme,400,400,1.0,0.0322,0.9907,1.0066,0.0,,0,0.0,,0,199349.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+hin,hin,espeak,400,400,1.0,0.007,0.1351,0.4009,0.055,,0,1.0,,0,66687.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+hin,hin,wikipron-lexicon,400,400,0.0,0.007,1.0,1.0,0.0,,0,0.0,,0,11924.4,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+hin,hin,latin-approx,400,400,1.0,0.007,0.9666,1.0,0.0,,0,0.0,,0,133332.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+hin,hin,raw-grapheme,400,400,1.0,0.007,0.9666,1.0,0.0,,0,0.0,,0,198641.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+hin,hin,epitran,400,400,1.0,0.007,0.1543,0.5072,0.0325,,0,0.0,,0,13998.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+hun,hun,espeak,400,400,1.0,0.223,0.0664,0.1394,0.375,,0,1.0,,0,21581.5,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+hun,hun,wikipron-lexicon,400,400,0.0,0.223,1.0,1.0,0.0,,0,0.0,,0,5275.5,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+hun,hun,latin-approx,400,400,1.0,0.223,0.2321,0.5201,0.0075,,0,0.0,,0,200062.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+hun,hun,raw-grapheme,400,400,1.0,0.223,0.2228,0.5119,0.0075,,0,0.0,,0,199800.1,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+hun,hun,epitran,400,400,1.0,0.223,0.0262,0.0368,0.77,,0,0.0,,0,22171.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ind,ind,espeak,400,400,1.0,0.1358,0.0246,0.0732,0.6225,,0,0.995,,0,61320.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ind,ind,wikipron-lexicon,400,400,0.0,0.1358,1.0,1.0,0.0,,0,0.0,,0,27562.4,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+ind,ind,latin-approx,400,400,1.0,0.1358,0.1046,0.1693,0.3675,,0,0.0,,0,159418.6,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ind,ind,raw-grapheme,400,400,1.0,0.1358,0.1088,0.1737,0.355,,0,0.0,,0,199847.7,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ita,ita,espeak,400,400,1.0,0.2406,0.0527,0.1097,0.4325,,0,1.0,,0,46956.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ita,ita,wikipron-lexicon,400,400,0.0,0.2406,1.0,1.0,0.0,,0,0.0,,0,4259.0,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+ita,ita,latin-approx,400,400,1.0,0.2406,0.0981,0.1392,0.37,,0,0.0,,0,159464.1,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ita,ita,raw-grapheme,400,400,1.0,0.2406,0.1114,0.1912,0.23,,0,0.0,,0,159010.7,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ita,ita,epitran,400,400,1.0,0.2406,0.093,0.1551,0.3275,,0,0.0,,0,19014.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+jpn,jpn,espeak,400,400,1.0,0.002,0.0935,0.3912,0.0875,,0,1.0,,0,32648.8,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+jpn,jpn,espeak-plus,400,400,1.0,0.002,0.0935,0.3912,0.0875,,0,1.0,,0,1005.7,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+jpn,jpn,wikipron-lexicon,400,400,0.0,0.002,1.0,1.0,0.0,,0,0.0,,0,199966.8,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+jpn,jpn,latin-approx,400,400,1.0,0.002,0.9852,1.005,0.0,,0,0.0,,0,200014.5,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+jpn,jpn,raw-grapheme,400,400,1.0,0.002,0.9852,1.005,0.0,,0,0.0,,0,159116.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+jpn,jpn,epitran,400,400,1.0,0.002,0.2228,0.6231,0.0,,0,0.0,,0,79982.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+kor,kor,espeak,400,400,1.0,0.1286,0.2868,0.6526,0.01,,0,1.0,,0,66571.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+kor,kor,wikipron-lexicon,400,400,0.0,0.1286,1.0,1.0,0.0,,0,0.0,,0,13192.4,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+kor,kor,latin-approx,400,400,1.0,0.1286,0.9764,1.0,0.0,,0,0.0,,0,133353.6,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+kor,kor,raw-grapheme,400,400,1.0,0.1286,0.9764,1.0,0.0,,0,0.0,,0,200062.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+kor,kor,epitran,400,400,1.0,0.1286,0.1266,0.5293,0.01,,0,0.0,,0,7023.6,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+nld,nld,espeak,400,400,1.0,0.1112,0.0878,0.1442,0.3,,0,0.995,,0,43899.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+nld,nld,wikipron-lexicon,400,400,0.0,0.1112,1.0,1.0,0.0,,0,0.0,,0,10851.3,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+nld,nld,latin-approx,400,400,1.0,0.1112,0.3347,0.6033,0.0,,0,0.0,,0,199943.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+nld,nld,raw-grapheme,400,400,1.0,0.1112,0.334,0.6233,0.0,,0,0.0,,0,265630.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+nld,nld,epitran,400,400,1.0,0.1112,0.1601,0.3082,0.09,,0,0.0,,0,12511.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+pol,pol,espeak,400,400,1.0,0.292,0.078,0.1369,0.4275,,0,1.0,,0,43453.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+pol,pol,wikipron-lexicon,400,400,0.0,0.292,1.0,1.0,0.0,,0,0.0,,0,2402.5,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+pol,pol,latin-approx,400,400,1.0,0.292,0.289,0.4575,0.0375,,0,0.0,,0,175420.5,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+pol,pol,raw-grapheme,400,400,1.0,0.292,0.3084,0.4832,0.0325,,0,0.0,,0,400124.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+pol,pol,epitran,400,400,1.0,0.292,0.0413,0.07,0.57,,0,0.0,,0,11743.8,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+por,por,espeak,400,400,1.0,0.1848,0.2263,0.3102,0.1,,0,0.9975,,0,39197.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+por,por,wikipron-lexicon,400,400,0.0,0.1848,1.0,1.0,0.0,,0,0.0,,0,11147.3,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+por,por,latin-approx,400,400,1.0,0.1848,0.31,0.5894,0.0025,,0,0.0,,0,199990.7,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+por,por,raw-grapheme,400,400,1.0,0.1848,0.3307,0.6405,0.0,,0,0.0,,0,397941.6,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+por,por,epitran,400,400,1.0,0.1848,0.2026,0.342,0.09,,0,0.0,,0,14043.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+rus,rus,espeak,400,400,1.0,0.1464,0.1455,0.451,0.0,,0,1.0,,0,44426.5,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+rus,rus,wikipron-lexicon,400,400,0.0,0.1464,1.0,1.0,0.0,,0,0.0,,0,1204.7,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+rus,rus,latin-approx,400,400,1.0,0.1464,1.0044,1.0209,0.0,,0,0.0,,0,199254.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+rus,rus,raw-grapheme,400,400,1.0,0.1464,1.0044,1.0209,0.0,,0,0.0,,0,200014.5,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+rus,rus,epitran,400,400,1.0,0.1464,0.1372,0.3548,0.0125,,0,0.0,,0,11048.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+spa,spa,espeak,400,400,1.0,0.2638,0.0576,0.0988,0.3575,,0,1.0,,0,53200.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+spa,spa,wikipron-lexicon,400,400,0.0,0.2638,1.0,1.0,0.0,,0,0.0,,0,2998.0,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+spa,spa,latin-approx,400,400,1.0,0.2638,0.0879,0.1902,0.165,,0,0.0,,0,159131.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+spa,spa,raw-grapheme,400,400,1.0,0.2638,0.1091,0.2401,0.1025,,0,0.0,,0,399172.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+spa,spa,epitran,400,400,1.0,0.2638,0.0146,0.0254,0.8,,0,0.0,,0,21244.8,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+swe,swe,espeak,400,400,1.0,0.041,0.1137,0.254,0.205,,0,0.9925,0.0,97,57086.7,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+swe,swe,wikipron-lexicon,400,400,0.0,0.041,1.0,1.0,0.0,,0,0.0,,0,100019.2,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+swe,swe,latin-approx,400,400,1.0,0.041,0.2504,0.4568,0.02,,0,0.0,0.0,97,200014.5,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+swe,swe,raw-grapheme,400,400,1.0,0.041,0.2407,0.4542,0.0225,,0,0.0,0.0,97,200253.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+swe,swe,epitran,400,400,1.0,0.041,0.1717,0.3272,0.165,,0,0.0,0.0,97,17747.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+tha,tha,espeak,400,400,1.0,,1.2554,1.0437,0.0,,0,0.97,0.0,400,49981.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a; tone digits compared separately
+tha,tha,wikipron-lexicon,400,400,0.0,,1.0,1.0,0.0,,0,0.0,,0,22667.3,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+tha,tha,latin-approx,400,400,1.0,,1.0152,1.0,0.0,,0,0.0,0.0,400,198876.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+tha,tha,raw-grapheme,400,400,1.0,,1.0152,1.0,0.0,,0,0.0,0.0,400,400124.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+tha,tha,epitran,400,400,1.0,,0.1369,0.5156,0.0,,0,0.0,0.0,400,10559.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+tur,tur,espeak,400,400,1.0,0.1332,0.0593,0.2845,0.1725,,0,0.9975,,0,79982.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+tur,tur,wikipron-lexicon,400,400,0.0,0.1332,1.0,1.0,0.0,,0,0.0,,0,42069.2,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+tur,tur,latin-approx,400,400,1.0,0.1332,0.1114,0.2762,0.1725,,0,0.0,,0,199349.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+tur,tur,raw-grapheme,400,400,1.0,0.1332,0.1326,0.2972,0.135,,0,0.0,,0,199943.0,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+tur,tur,epitran,400,400,1.0,0.1332,0.0381,0.1229,0.4975,,0,0.0,,0,34713.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ukr,ukr,espeak,400,400,1.0,,0.2059,0.5621,0.005,,0,1.0,,0,79956.2,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ukr,ukr,wikipron-lexicon,400,400,0.0,,1.0,1.0,0.0,,0,0.0,,0,7752.1,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+ukr,ukr,latin-approx,400,400,1.0,,1.0186,1.0189,0.0,,0,0.0,,0,401080.9,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ukr,ukr,raw-grapheme,400,400,1.0,,1.0186,1.0189,0.0,,0,0.0,,0,399838.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+ukr,ukr,epitran,400,400,1.0,,0.2021,0.4084,0.0275,,0,0.0,,0,21013.3,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+vie,vie,espeak,400,400,1.0,,0.3757,0.6556,0.0,,0,1.0,0.0,400,56848.8,1.0,gold has no stress marks (WikiPron); stress_acc n/a; tone digits compared separately
+vie,vie,wikipron-lexicon,400,400,0.0,,1.0,1.0,0.0,,0,0.0,,0,80040.2,0.0,PER n/a by protocol (gold words are held out of the train lexicon; scoring the dictionary against itself is meaningless) -> use coverage.csv / lexicon_qa.csv
+vie,vie,latin-approx,400,400,1.0,,0.4888,0.8319,0.0,,0,0.0,0.0,400,159494.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+vie,vie,raw-grapheme,400,400,1.0,,0.5457,0.8695,0.0,,0,0.0,0.0,400,400124.4,1.0,gold has no stress marks (WikiPron); stress_acc n/a
+vie,vie,epitran,400,400,1.0,,0.2135,0.6244,0.0,,0,0.0,0.0,400,18557.6,1.0,gold has no stress marks (WikiPron); stress_acc n/a

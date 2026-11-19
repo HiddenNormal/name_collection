@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+lyukaszt            	j u k ɒ s t                 	lyukaszt                    	0.67	0.54
+irodák              	i r o d aː k                	irodák                      	0.17	0.04
+keresztespókok      	k ɛ r ɛ s t ɛ ʃ p oː k o k  	keresztespókok              	0.46	0.15
+magadként           	m ɒ ɡ ɒ t k eː n t          	magadként                   	0.44	0.10
+interjúalany        	i n t ɛ r j uː ɒ l ɒ ɲ      	interjúalany                	0.55	0.24
+áldhat              	aː l t h ɒ t                	áldhat                      	0.50	0.10
+papiros             	p ɒ p i r o ʃ               	papiros                     	0.29	0.09
+számoló             	s aː m o l oː               	számoló                     	0.50	0.25
+népszaporodás       	n eː p s ɒ p o r o d aː ʃ   	népszaporodás               	0.42	0.18
+gyorsúszások        	ɟ o r ʃ uː s aː ʃ o k       	gyorsúszások                	0.70	0.42
+kétes               	k eː t ɛ ʃ                  	kétes                       	0.60	0.15
+agám                	ɒ ɡ aː m                    	agám                        	0.50	0.12
+gemkapocs           	ɡ ɛ m k ɒ p o t͡ʃ           	gemkapocs                   	0.50	0.30
+köszöntötte         	k ø s ø n t ø tː ɛ          	köszöntötte                 	0.78	0.35
+abakuszokra         	ɒ b ɒ k u s o k r ɒ         	abakuszokra                 	0.40	0.17
+alkotmányosabb      	ɒ l k o t m aː ɲ o ʃ ɒ bː   	alkotmányosabb              	0.67	0.35
+képzéseken          	k eː b z eː ʃ ɛ k ɛ n       	képzéseken                  	0.60	0.12
+elébe               	ɛ l eː b ɛ                  	elébe                       	0.60	0.10
+spaletta            	ʃ p ɒ l ɛ tː ɒ              	spaletta                    	0.86	0.32
+fejti               	f ɛ j t i                   	fejti                       	0.20	0.03
+csajokat            	t͡ʃ ɒ j o k ɒ t             	csajokat                    	0.57	0.36
+négyzetméteres      	n eː ɟ z ɛ t m eː t ɛ r ɛ ʃ 	négyzetméteres              	0.62	0.25
+tetsszetek          	t ɛ t͡sː ɛ t ɛ k            	tetsszetek                  	0.75	0.33
+vascsövek           	v ɒ ʃ t͡ʃ ø v ɛ k           	vascsövek                   	0.75	0.38
+háta                	h aː t ɒ                    	háta                        	0.50	0.12

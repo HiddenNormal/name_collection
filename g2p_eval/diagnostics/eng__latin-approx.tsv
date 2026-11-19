@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+stubborn            	s t ʌ b ɚ n                 	stubborn                    	0.67	0.62
+dedicate            	d ɛ d ɪ k e ɪ t             	dedikate                    	0.62	0.34
+exclaimed           	ɛ k s k l e ɪ m d           	eksklaimed                  	0.44	0.19
+nutrition           	n j u t ɹ ɪ ʃ ə n           	nutrition                   	0.67	0.50
+lave                	l e ɪ v                     	lave                        	0.75	0.62
+baff                	b æ f                       	baff                        	0.67	0.42
+acapnia             	e ɪ k æ p n i ə             	akapnia                     	0.50	0.27
+stramineous         	s t ɹ ə m ɪ n i ə s         	stramineous                 	0.60	0.31
+braved              	b ɹ e ɪ v d                 	braved                      	0.67	0.58
+monaural            	m ɑ n ɔ ɹ ə l               	monaural                    	0.71	0.52
+resentful           	ɹ ɪ z ɛ n t f ə l           	resentful                   	0.56	0.28
+baritone            	b æ ɹ ɪ t o ʊ n             	baritone                    	0.62	0.42
+metamour            	m ɛ t ə m ʊ ɹ               	metamour                    	0.71	0.41
+plandid             	p l æ n d ɪ d               	plandid                     	0.29	0.05
+broader             	b ɹ ɑ d ɚ                   	broader                     	1.00	0.82
+victories           	v ɪ k t ə ɹ i z             	viktories                   	0.62	0.33
+zephyr              	z ɛ f ɚ                     	zefjr                       	0.75	0.53
+upvote              	ʌ p v o ʊ t                 	upvote                      	0.50	0.46
+breathy             	b ɹ ɛ θ i                   	breaθj                      	0.80	0.62
+posy                	p o ʊ z i                   	posj                        	0.60	0.42
+adjudication        	ə d d͡ʒ u d ɪ k e ɪ ʃ ə n   	addʒudikation               	0.50	0.28
+patroon             	p ə t ɹ uː n                	patroon                     	0.67	0.52
+rival               	ɹ a ɪ v ə l                 	rival                       	0.67	0.42
+neptunium           	n ɛ p t j uː n i ə m        	neptunium                   	0.40	0.23
+antilibertarian     	æ n t i l ɪ b ə ɹ t ɛ ɹ i ə n	antilibertarian             	0.47	0.25

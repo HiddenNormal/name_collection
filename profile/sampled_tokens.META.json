@@ -1,0 +1,10 @@
+{
+ "description": "top-N most frequent non-junk tokens per country and field, same schema as unique_tokens.parquet",
+ "top_n_per_country_field": 500,
+ "countries": 105,
+ "countries_total": 105,
+ "rows": 105000,
+ "partial": false,
+ "built_at": "2026-11-19 21:22:01",
+ "note": "count = number of occurrences of the normalized key in that country+field (sum over its raw surface variants); token = most frequent raw surface; norm = normalized surface to G2P; key = casefolded lexicon join key."
+}

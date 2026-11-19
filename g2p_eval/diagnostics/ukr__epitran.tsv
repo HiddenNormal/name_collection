@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+вчитися             	ʍ t͡ʃ ɪ t e sʲ ɐ            	vʈ͡ʂɪtɪsʲɑ                  	0.71	0.57
+ботаніка            	b ɔ t a nʲ i k ɐ            	bɔtɑnʲikɑ                   	0.25	0.09
+заспокоїтися        	z ɐ s p ɔ k ɔ j i t e sʲ ɐ  	zɑspɔkɔjitɪsʲɑ              	0.23	0.12
+прискорити          	p r e s k ɔ r e t e         	prɪskɔrɪtɪ                  	0.30	0.11
+непередбачений      	n e p e r e d b a t͡ʃ e n e i̯	nɛpɛrɛdbɑʈ͡ʂɛnɪj            	0.64	0.23
+сосна               	s ɔ s n a                   	sɔsnɑ                       	0.20	0.03
+мислителя           	m e s ɫ ɪ t e lʲ ɐ          	mɪslɪtɛlʲɑ                  	0.33	0.12
+чиновники           	t͡ʃ e n ɔ u̯ n e k e        	ʈ͡ʂɪnɔvnɪkɪ                 	0.67	0.46
+дисоціації          	d e s ɔ t͡sʲ i a t͡sʲ i j i 	dɪsɔt͡sʲiɑt͡sʲiji           	0.15	0.04
+екватор             	e k ʋ a t ɔ r               	ɛkvɑtɔr                     	0.43	0.18
+штанина             	ʃ t ɐ n ɪ n ɐ               	ʂtɑnɪnɑ                     	0.43	0.20
+риболовля           	r e b ɔ ɫ ɔ u̯ lʲ ɐ         	rɪbɔlɔvlʲɑ                  	0.33	0.22
+вуличній            	w u ɫ e t͡ʃ nʲ i i̯         	vulɪʈ͡ʂnʲij                 	0.62	0.45
+незавершений        	n e z ɐ ʋ ɛ r ʃ e n e i̯    	nɛzɑvɛrʂɛnɪj                	0.58	0.21
+орден               	ɔ r d e n                   	ɔrdɛn                       	0.20	0.03
+пріоритетів         	p rʲ i ɔ r e t ɛ tʲ i u̯    	prʲiɔrɪtɛtʲiv               	0.18	0.12
+відкриєш            	ʋʲ i d k r ɪ j e ʃ          	vidkrɪɛʂ                    	0.44	0.25
+пишатись            	p e ʃ a t e sʲ              	pɪʂɑtɪsʲ                    	0.57	0.14
+відбуваються        	ʋʲ i d b ʊ ʋ a j ʊ t͡sʲː ɐ  	vidbuvɑutʲsʲɑ               	0.75	0.42
+обговори            	ɔ b ɦ ɔ w ɔ r ɪ             	ɔbɦɔvɔrɪ                    	0.12	0.12
+каблучка            	k ɐ b ɫ u t͡ʃ k ɐ           	kɑbluʈ͡ʂkɑ                  	0.50	0.41
+привертати          	p r e ʋ e r t a t e         	prɪvɛrtɑtɪ                  	0.50	0.20
+білборд             	bʲ i ɫ b ɔ r d              	bilbɔrd                     	0.14	0.04
+героям              	ɦ e r ɔ j ɐ m               	ɦɛrɔɑm                      	0.43	0.25
+фігурант            	fʲ i ɦ ʊ r a n t            	fiɦurɑnt                    	0.38	0.09

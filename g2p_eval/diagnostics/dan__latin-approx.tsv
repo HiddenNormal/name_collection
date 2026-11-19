@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+lønforhøjelse       	l œ n f ɔ r h ø j ə l s ə   	lønforhødʒelse              	0.38	0.15
+samtidig            	s a m t iː d i              	samtidig                    	0.29	0.18
+solgt               	s ɔ lˀ t                    	solgt                       	0.75	0.31
+galoche             	ɡ a l ɔ s j ə               	galotʃe                     	0.57	0.36
+blomkål             	b l ɔ m k ɔː l              	blomkål                     	0.29	0.14
+nedprioritere       	n e d p r i ɔ r i t eː r ə  	nedprioritere               	0.23	0.06
+erfare              	ɛ r f aːˀ r ə               	erfare                      	0.50	0.12
+ris                 	ʁ iːˀ s                     	ris                         	0.67	0.42
+dato                	d aː t o                    	dato                        	0.25	0.06
+sagde               	s aː ɣ ə                    	sagde                       	1.00	0.66
+oldgræsk            	ɔ l ɡ r ɛ s k               	oldgræsk                    	0.43	0.21
+ninja               	n i n d j a                 	nindʒa                      	0.33	0.33
+fast                	f a s t                     	fast                        	0.00	0.00
+tankens             	t a n k ə n s               	tankens                     	0.14	0.05
+øm                  	œ mˀ                        	øm                          	1.00	0.12
+lungebetændelse     	l o ŋ ə b e tˢ ɛ̝ nˀ l̩ s ə 	lungebetændelse             	0.92	0.56
+fars                	f a r s                     	fars                        	0.00	0.00
+varsle              	v a r s l ə                 	varsle                      	0.17	0.06
+yver                	yː v ə r                    	jver                        	0.50	0.34
+spadsere            	s p a s eː r ə              	spadsere                    	0.43	0.23
+ve                  	v eːˀ                       	ve                          	0.50	0.12
+kystlinje           	k ø s t l e n j ə           	kjstlindʒe                  	0.44	0.29
+vrøvlen             	v r ø v l ə n               	vrøvlen                     	0.14	0.05
+kontrovers          	k ɔ n t r o v ɛ r s         	kontrovers                  	0.20	0.03
+reel                	r iː l                      	reel                        	0.67	0.50

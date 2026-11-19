@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+abadi               	ə b ˈæ d i                  	abadi                       	0.40	0.12
+abner               	ˈæ b n ɚ                    	abner                       	0.75	0.56
+adame               	ɑ d ˈɑ m i                  	adame                       	0.60	0.10
+addition            	ə d ˈɪ ʃ ə n                	addition                    	1.00	0.65
+agan                	ˈeɪ g ə n                   	agan                        	0.60	0.38
+aidid               	ˌaɪ d ˈi d                  	aidid                       	0.20	0.03
+alas                	ə l ˈæ s                    	alas                        	0.50	0.16
+alcide              	ˈæ l s ˌaɪ d                	alcide                      	0.83	0.56
+ali                 	ˈɑ l i                      	ali                         	0.33	0.04
+aliyah              	ə l ˈi ə                    	aliyah                      	1.00	0.69
+aloysia             	ɑ l ˈɔɪ s i ə               	aloysia                     	0.57	0.18
+alvarado            	ˌæ l v ɚ ˈɑ d oʊ            	alvarado                    	0.62	0.42
+alvino              	ɑ l v ˈi n oʊ               	alvino                      	0.29	0.16
+alyce               	ˈæ l ɪ s                    	alyce                       	1.00	0.72
+anglin              	ˈæ ŋ g l ɪ n                	anglin                      	0.50	0.23
+ansel               	ə n s ˈɛ l                  	ansel                       	0.40	0.10
+antoni              	ɑ n t ˈoʊ n i               	antoni                      	0.29	0.16
+arafat              	ˈɛ ɹ ə f æ t                	arafat                      	0.67	0.38
+ariella             	ɑ ɹ i ˈɛ l ə                	ariella                     	0.83	0.44
+arlington           	ˈɑ ɹ l ɪ ŋ t ə n            	arlington                   	0.75	0.45
+aron                	ˈɛ ɹ ə n                    	aron                        	0.75	0.50
+artful              	ˈɑ ɹ t f ə l                	artful                      	0.50	0.33
+article             	ˈɑ ɹ t ə k ə l              	article                     	0.86	0.57
+ashe                	ˈæ ʃ                        	ashe                        	2.00	1.31
+astro               	ˈæ s t ɹ oʊ                 	astro                       	0.50	0.38

@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+turvapaikananoja    	t u r ʋ ɑ p ɑ i̯ k ɑ n ɑ n o j ɑ	turvapaikananodʒa           	0.50	0.23
+rutto               	r u tː o                    	rutto                       	0.50	0.31
+imperiaalinen       	i m p e r i ɑː l i n e n    	imperiaalinen               	0.17	0.11
+vehtaus             	ʋ e h t ɑ u s               	vehtaus                     	0.29	0.16
+raamittaa           	r ɑː m i tː ɑːˣ             	raamittaa                   	1.00	0.67
+jätevoimala         	j æ t eˣ ʋ o i̯ m ɑ l ɑ     	dʒätevoimala                	0.64	0.32
+kaareke             	k ɑː r e k eˣ               	kaareke                     	0.50	0.23
+rönttönen           	r ø n tː ø n e n            	rönttönen                   	0.50	0.22
+sisäelinsairaus     	s i s æ e l i n s ɑ i̯ r ɑ u s	sisäelinsairaus             	0.27	0.10
+muovilusikka        	m u o̯ ʋ i l u s i kː ɑ     	muovilusikka                	0.45	0.31
+fonotaktinen        	f o n o t ɑ k t i n e n     	fonotaktinen                	0.08	0.01
+hämilleen           	h æ m i lː eː n             	hämilleen                   	0.71	0.39
+maalisuora          	m ɑː l i s u o̯ r ɑ         	maalisuora                  	0.44	0.28
+yh                  	y h                         	jh                          	0.50	0.50
+normeerautuva       	n o r m eː r ɑ u̯ t u ʋ ɑ   	normeerautuva               	0.50	0.29
+pulunnussija        	p u l u n n u sː i j ɑ      	pulunnussidʒa               	0.36	0.22
+seurakuntakuraattori	s e u̯ r ɑ k u n t ɑ k u r ɑː tː o r i	seurakuntakuraattori        	0.39	0.22
+kantaitiö           	k ɑ n t ɑ i t i ø           	kantaitiö                   	0.33	0.06
+sähköallergia       	s æ h k ø ɑ lː e r ɡ i ɑ    	sähköallergia               	0.50	0.17
+viisastuttaa        	ʋ iː s ɑ s t u tː ɑːˣ       	viisastuttaa                	0.89	0.56
+asetuttaa           	ɑ s e t u tː ɑːˣ            	asetuttaa                   	0.71	0.39
+riivattu            	r iː ʋ ɑ tː u               	riivattu                    	1.00	0.60
+noutava             	n o u̯ t ɑ ʋ ɑ              	noutava                     	0.57	0.32
+kultakuoriainen     	k u l t ɑ k u o̯ r i ɑ i̯ n e n	kultakuoriainen             	0.27	0.15
+ateistinen          	ɑ t e i̯ s t i n e n        	ateistinen                  	0.20	0.11

@@ -1,0 +1,49 @@
+{
+ "stage": "resolve",
+ "coverage_target": 0.85,
+ "top_limit": 40000,
+ "countries": 105,
+ "missing_shards": [],
+ "units": 1621451,
+ "tokens_kept": 2415162,
+ "instances_kept": 898963607,
+ "junk_tokens": 163,
+ "junk_instances": 39713,
+ "resolved_units": 1620699,
+ "resolution_rate": 99.95,
+ "lexicon_path": "E:\\Repos\\name_collection\\output\\name_ipa_lexicon.parquet",
+ "lexicon_mb": 44.1,
+ "g2p_seconds": 177.6,
+ "g2p_units_per_sec": 8823,
+ "by_source": {
+  "g2p:espeak": 1620698,
+  "unresolved:no-voice": 752,
+  "g2p:espeak-fallback": 1
+ },
+ "by_confidence": {
+  "high": 1129992,
+  "medium": 320163,
+  "low": 170544,
+  "none": 752
+ },
+ "by_lang_reason": {
+  "country-latin-lts": 1107954,
+  "english-fallback": 267138,
+  "script:country": 175057,
+  "pinyin-latn": 64563,
+  "script:default": 5986,
+  "unsupported-script": 752,
+  "g2p-fallback-voice": 1
+ },
+ "lang_reason_by_units": {
+  "country-latin-lts": 1107954,
+  "english-fallback": 267138,
+  "script:country": 175057,
+  "pinyin-latn": 64563,
+  "script:default": 5986,
+  "unsupported-script": 752,
+  "g2p-fallback-voice": 1
+ },
+ "elapsed_s": 253.7,
+ "wikipron_tier": "disabled by default (unstressed, non-espeak inventory; see QUALITY_REPORT.md §6)"
+}

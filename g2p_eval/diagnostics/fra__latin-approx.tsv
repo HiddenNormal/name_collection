@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+croulant            	k ʁ u l ɑ̃                  	kroulant                    	1.00	0.88
+hélitreuillage      	e l i t ʁ œ j a ʒ           	hélitreuillage              	1.11	0.93
+servante            	s ɛ ʁ v ɑ̃ t                	servante                    	0.83	0.58
+détaché             	d e t a ʃ e                 	détatʃé                     	0.50	0.17
+chacha              	ʃ a ʃ a                     	tʃatʃa                      	0.50	0.50
+instaurer           	ɛ̃ s t ɔ ʁ e                	instaurer                   	1.00	0.88
+postes              	p ɔ s t                     	postes                      	0.75	0.53
+amollir             	a m ɔ l i ʁ                 	amollir                     	0.50	0.35
+accaparer           	a k a p a ʁ e               	akkaparer                   	0.43	0.43
+descendant          	d e s ɑ̃ d ɑ̃               	deskendant                  	1.00	0.88
+bruxellois          	b ʁ y s e l w a             	bruksellois                 	0.88	0.72
+cuivreras           	k ɥ i v ʁ ə ʁ a             	kuivreras                   	0.62	0.55
+gueuler             	ɡ œ l e                     	gueuler                     	1.00	0.84
+capacité            	k a p a s i t e             	kapakité                    	0.25	0.12
+baratinerons        	b a ʁ a t i n ʁ ɔ̃          	baratinerons                	0.67	0.60
+papy                	p a p i                     	papj                        	0.25	0.25
+fusement            	f y z m ɑ̃                  	fusement                    	1.20	0.85
+émussiez            	e m y s j e                 	émussiez                    	0.83	0.54
+lamperait           	l ɑ̃ p ʁ ɛ                  	lamperait                   	1.40	1.15
+houspillerons       	u s p i j ʁ ɔ̃              	houspillerons               	1.29	1.20
+butoir              	b y t w a ʁ                 	butoir                      	0.67	0.50
+appeau              	a p o                       	appeau                      	1.33	1.17
+squattérisât        	s k w a t e ʁ i z a         	skvattérisât                	0.70	0.41
+accrochée           	a k ʁ ɔ ʃ e                 	akkrotʃée                   	0.83	0.69
+récidiviste         	ʁ e s i d i v i s t         	rékidiviste                 	0.40	0.30

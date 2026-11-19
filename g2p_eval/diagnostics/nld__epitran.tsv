@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+manoeuvre           	m aː n œː v r ə             	maːnuːʏvreː                 	0.43	0.30
+boeien              	b u i̯ ə                    	bujɛn                       	0.75	0.36
+omverschoppen       	ɔ m v ɛ r s x ɔ p ə         	ɔmvɛrsxɔppɛn                	0.30	0.23
+speelgoedauto's     	s p eː l ɣ u t oː t oː s    	speːlɣuːɛdawʏtɔ's           	0.73	0.50
+pakking             	p ɑ k ɪ ŋ                   	pɑkkɪnx                     	0.60	0.60
+cederolie           	s eː d ə r oː l i           	seːdɛroːliːeː               	0.38	0.19
+lichtgekleurde      	l ɪ x t ɣ ə k l øː r d ə    	lɪxtɣɛkløːrdeː              	0.17	0.07
+kubiekwortel        	k y b iː k ʋ ɔ r t ə l      	kyːbiːkʋɔrtɛl               	0.18	0.05
+kerkendom           	k ɛ r k ə d ɔ m             	kɛrkɛndɔm                   	0.25	0.16
+bekouten            	b ə k ɑ u̯ t ə              	beːkɑwʏtɛn                  	0.71	0.44
+puntdicht           	p ʏ n d ɪ x t               	pʏntdɪxt                    	0.14	0.14
+bloemen             	b l u m ə                   	pluːɛmɛn                    	1.00	0.53
+joker               	j oː k ə r                  	joːkɛr                      	0.20	0.05
+cosmogonie          	k ɔ s m oː ɣ oː n i         	cɔsmoːɣɔniːeː               	0.44	0.21
+implosie            	ɪ m p l oː z i              	ɪmploːsiːeː                 	0.43	0.20
+handsfree           	ɦ ɛ n t s f r iː            	hɑntsfreːeː                 	0.50	0.27
+krachtproef         	k r ɑ x t p r u f           	krɑxtpruːf                  	0.11	0.03
+dichtbundel         	d ɪ x t b ʏ n d ə l         	dɪxtbʏndɛl                  	0.10	0.03
+snelverband         	s n ɛ l v ə r b ɑ n t       	snɛlvɛrbɑnt                 	0.09	0.02
+schaaldier          	s x aː l d i r              	sxaːldiːr                   	0.14	0.04
+privéleven          	p r i v eː l eː v ə         	priːvɛ́leːvɛn               	0.44	0.21
+hoofsheid           	ɦ oː f s ɦ ɛ ɪ t            	hoːfʃɛjt                    	0.50	0.31
+krijgsgevangene     	k r ɛ i̯ x s x ə v ɑ ŋ ə n ə	krɛjxsɣeːvɑŋeːneː           	0.36	0.16
+pelagianisme        	p eː l aː ɣ i aː n ɪ s m ə  	peːlaːɣɪaːnɪsmeː            	0.17	0.06
+tilapia             	t i l aː p i aː             	tiːlaːpɪaː                  	0.29	0.05

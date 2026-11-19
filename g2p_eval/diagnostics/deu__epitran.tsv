@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+unterscheiden       	ʊ n t ə r ʃ a ɪ̯ d ə n      	ʊntɛːrʃaɪ̯dn̩               	0.27	0.23
+weilen              	v a ɪ̯ l ə n                	vaɪ̯ln̩                     	0.33	0.33
+riss                	ʁ ɪ s                       	rɪs                         	0.33	0.33
+becherförmigen      	b ɛ ç ɐ f œ ʁ m ɪ ɡ n̩      	bəxɛːrføːrmiɡn̩             	0.64	0.31
+klappern            	k l a p ɐ n                 	klapɛːɐ̯n                   	0.33	0.23
+weiterführen        	v a ɪ̯ t ɐ f yː ʁ ə n       	vaɪ̯tɛːrfyːrən              	0.30	0.24
+warmblütig          	v a ʁ m b l yː t ɪ ç        	vaːrmblyːtɪç                	0.20	0.12
+russlandfreundlicher	ʁ ʊ s l a n t f ʁ ɔ ɪ̯ n t l ɪ ç ɐ	rʊslandfrɔɪ̯ndlɪçɐ          	0.24	0.13
+hinterfotzig        	h ɪ n t ɐ f ɔ t͡s ɪ ç       	hɪntɛːrfoːt͡sɪç             	0.27	0.16
+fünftausend         	f ʏ n f t a ʊ z n̩ t        	fʏnftaʊ̯sn̩t                	0.20	0.11
+mehrfach            	m eː ɐ̯ f a x               	meːrfax                     	0.17	0.17
+schmerzhaft         	ʃ m ɛ ʁ t͡s h a f t         	ʃmɛːrt͡shaft                	0.20	0.12
+russlandfreundlich  	ʁ ʊ s l a n t f ʁ ɔ ɪ̯ n t l ɪ ç	rʊslandfrɔɪ̯ndlɪç           	0.25	0.14
+verflixt            	f ɛ ɐ̯ f l ɪ k s t          	fɛːrflɪkst                  	0.22	0.14
+dreispurig          	d ʁ a ɪ̯ ʃ p uː ʁ ɪ ç       	draɪ̯spuːrɪç                	0.30	0.24
+pachten             	p a x t ə n                 	paxtn̩                      	0.33	0.33
+erklärender         	ɛ ɐ̯ k l ɛː ʁ ə n d ɐ       	ɛɐ̯klɛːrɛndɐ                	0.20	0.12
+erschießen          	ʔ ɛ ɐ̯ ʃ iː s n̩            	ɛɐ̯ʃiːsɛːn                  	0.43	0.43
+knüll               	k n ʏ l                     	knʏl                        	0.00	0.00
+partout             	p a r t uː                  	paːrtuːt                    	0.40	0.25
+leakst              	l iː k s t                  	lɛːakst                     	0.40	0.28
+unterschlüpfen      	ʊ n t ə r ʃ l ʏ p f ə n     	ʊntɛːrʃlʏp͡fɛːn             	0.17	0.08
+wundern             	v ʊ n d ɐ n                 	vʊndɛːɐ̯n                   	0.33	0.23
+leisten             	l a ɪ̯ s t n̩               	laɪ̯stn̩                    	0.00	0.00
+vierbeinig          	f iː ɐ̯ b a ɪ̯ n ɪ k        	fiːrbaɪ̯nɪç                 	0.22	0.19

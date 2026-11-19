@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+muita               	m ũ j̃ t ɐ                  	mwˈiŋtɐ                     	0.60	0.60
+músico              	m u z i k u                 	mˈuzikʊ                     	0.17	0.06
+subsistir           	s u b s i ʃ t i ɾ           	sˌubziʃtˈiɹ                 	0.22	0.12
+paralelepípedo      	p a ɾ a l e l e p i p e d u 	pˌɐɾɐlˌelɨpˈipɨdʊ           	0.36	0.17
+brisar              	b ɾ i z a ɾ                 	bɹizˈaɹ                     	0.33	0.33
+falocentrismo       	f ɐ l u s ẽ t ɾ i ʒ m u     	fˌɐluseɪŋtɹˈiʒmʊ            	0.42	0.30
+antidinheiro        	ɐ̃ t i d i ɲ e j ɾ u        	ˌɐ̃ŋtidiɲˈeɪɾʊ              	0.30	0.24
+mama                	m a m ɐ                     	mˈɐ̃mɐ                      	0.25	0.19
+tiriba              	t i ɾ i b ɐ                 	tˌiɾˈibɐ                    	0.00	0.00
+ventoso             	b ẽ t o z u                 	vˌeɪŋtˈozʊ                  	0.83	0.54
+amigar              	ɐ m i ɡ a ɾ                 	ɐmiɡˈaɹ                     	0.17	0.17
+aneto               	ɐ n ɛ t u                   	ɐnˈetʊ                      	0.40	0.10
+euzinha             	e w z i ɲ ɐ                 	ˌeʊzˈiɲɐ                    	0.17	0.17
+caidinho            	k ɐ i d i ɲ u               	kˌaɪdˈiɲʊ                   	0.43	0.14
+atrial              	ɐ t ɾ i a l                 	ˌɐtɹiˈɑl                    	0.33	0.19
+abordo              	ɐ b ɔ ɾ d u                 	ˌɐbˈɔɾədʊ                   	0.33	0.23
+durião              	d u ɾ j ɐ̃ w̃               	dˌuɾiˈɐ̃ʊ̃                  	0.33	0.33
+valença             	b ɐ l ẽ s ɐ                 	vˌɐlˈeɪŋsɐ                  	0.67	0.48
+calco               	k a l k u                   	kˈɑlkʊ                      	0.40	0.10
+vencelho            	b ẽ s e ʎ u                 	vˌeɪŋsˈeʎʊ                  	0.83	0.54
+tinhas              	t i ɲ ɐ ʃ                   	tˈiɲɐʃ                      	0.00	0.00
+pusera              	p u z ɛ ɾ ɐ                 	pˌuzˈɛɾɐ                    	0.00	0.00
+maus                	m a w ʃ                     	mˈaʊʃ                       	0.25	0.25
+sarcasmo            	s ɐ ɾ k a ʒ m u             	sˌɐɾəkˈaʒmʊ                 	0.25	0.17
+invento             	ĩ b ẽ t u                   	ˌiŋvˈeɪŋtʊ                  	1.40	0.90

@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+rankst              	ʁ a ŋ k s t                 	rɑŋkst                      	0.33	0.19
+unterscheiden       	ʊ n t ə r ʃ a ɪ̯ d ə n      	ʏntərsxɛi̯dən               	0.45	0.22
+weilen              	v a ɪ̯ l ə n                	ʋɛi̯lən                     	0.50	0.29
+riss                	ʁ ɪ s                       	rɪsp                        	0.67	0.67
+projektieren        	p ʁ o j ɛ k t iː ʁ ə n      	proːjɛktiːrən               	0.27	0.20
+klassizistisch      	k l a s i t͡s ɪ s t ɪ ʃ     	klɑsizɪstis                 	0.42	0.15
+becherförmigen      	b ɛ ç ɐ f œ ʁ m ɪ ɡ n̩      	bəxərfœrməɣən               	0.82	0.58
+latschen            	l aː t͡ʃ n̩                 	lɑtʃənt                     	1.00	0.84
+klappern            	k l a p ɐ n                 	klɑpərn                     	0.50	0.25
+weiterführen        	v a ɪ̯ t ɐ f yː ʁ ə n       	ʋɛi̯tərfyːrən               	0.60	0.41
+tuet                	t uː ə t                    	tyɛt                        	0.50	0.19
+wiederaufbauen      	v iː d ɐ ʔ a ʊ̯ f b a ʊ̯ ə n	ʋidərɑu̯fbɑu̯ən             	0.62	0.28
+binnenländisch      	b ɪ n ə n l ɛ n d ɪ ʃ       	bɪnənlɛndis                 	0.18	0.05
+warmblütig          	v a ʁ m b l yː t ɪ ç        	ʋɑrmblytəx                  	0.60	0.31
+russlandfreundlicher	ʁ ʊ s l a n t f ʁ ɔ ɪ̯ n t l ɪ ç ɐ	rʏslɑntfrøːntlɪxər          	0.53	0.33
+hinterfotzig        	h ɪ n t ɐ f ɔ t͡s ɪ ç       	ɦɪntərfɔtsəx                	0.45	0.20
+myoelektrisch       	m y o ʔ e l ɛ k t ʁ ɪ ʃ     	mioːlɛktris                 	0.58	0.35
+unerschrocken       	ʊ n ʔ ɛ ɐ̯ ʃ ʁ ɔ k n̩       	ʏnɛrʃrɔkən                  	0.60	0.53
+dümpeln             	d ʏ m p ə l n               	dʏmpəln                     	0.00	0.00
+messingen           	m ɛ s ɪ ŋ ə n               	mɛsɪŋənt                    	0.14	0.14
+floss               	f l ɔ s                     	flɔsp                       	0.25	0.25
+föderativ           	f ø d e ʀ a t iː f          	føːdəraːtiːvi               	0.67	0.33
+unvollständigstem   	ʊ n f ɔ l ʃ t ɛ n d ɪ ç s t ə m	ˈʔʊnˌvɔllstɛndɪgstəm        	0.31	0.22
+fünftausend         	f ʏ n f t a ʊ z n̩ t        	fʏnftɑu̯zənt                	0.40	0.31
+hieben              	h iː b ə n                  	ɦibən                       	0.40	0.07

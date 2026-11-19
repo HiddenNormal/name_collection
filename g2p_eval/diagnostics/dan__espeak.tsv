@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+lønforhøjelse       	l œ n f ɔ r h ø j ə l s ə   	lˈʔœnfʌːhˌʌjəlsə            	0.31	0.24
+samtidig            	s a m t iː d i              	sˈ?ɑmtʔiðˌʔi                	0.86	0.57
+solgt               	s ɔ lˀ t                    	sˈʔʌlt                      	0.75	0.38
+galoche             	ɡ a l ɔ s j ə               	ɡalˈʔʌʃə                    	0.43	0.39
+blomkål             	b l ɔ m k ɔː l              	blˈʔʌmkɒl                   	0.43	0.29
+nedprioritere       	n e d p r i ɔ r i t eː r ə  	nˈʔeðpʁʔiˌoʁitˌʔʌʔʌ         	0.77	0.57
+erfare              	ɛ r f aːˀ r ə               	εɐ̯fˈɑɑ                     	0.83	0.65
+ris                 	ʁ iːˀ s                     	ʁˈʔis                       	0.67	0.42
+dato                	d aː t o                    	dˈaatʔo                     	0.75	0.56
+sagde               	s aː ɣ ə                    	sˈaə                        	0.50	0.31
+oldgræsk            	ɔ l ɡ r ɛ s k               	ˈʔʌlɡʁ?ask                  	0.71	0.57
+ninja               	n i n d j a                 	nˈʔindʒa                    	0.50	0.50
+fast                	f a s t                     	fˈast                       	0.00	0.00
+tankens             	t a n k ə n s               	tˈ?ɑnkəns                   	0.29	0.16
+øm                  	œ mˀ                        	ˈʔœm                        	1.00	0.56
+lungebetændelse     	l o ŋ ə b e tˢ ɛ̝ nˀ l̩ s ə 	lˈɒŋəbʔetˌεnəlsə            	0.58	0.36
+fars                	f a r s                     	fˈɑs                        	0.50	0.28
+varsle              	v a r s l ə                 	ʋˈɑslə                      	0.50	0.35
+yver                	yː v ə r                    	ˈʔyʋʔʌ                      	1.25	1.06
+spadsere            	s p a s eː r ə              	spasˈʔeʔʌ                   	0.57	0.34
+ve                  	v eːˀ                       	ʋˈʔe                        	1.50	1.12
+kystlinje           	k ø s t l e n j ə           	kˈœstlʔinjə                 	0.33	0.15
+vrøvlen             	v r ø v l ə n               	ʋʁˈœʋlən                    	0.57	0.45
+kontrovers          	k ɔ n t r o v ɛ r s         	kˈʔʌntʁɒwˌʔʌs               	0.70	0.56
+reel                	r iː l                      	ʁˈʔeʔɛl                     	1.67	1.50

@@ -1,0 +1,61 @@
+# =============================================================================
+# This repo commits CODE, DOCS and SMALL REPORT ARTIFACTS only.
+# Everything below is either re-downloadable or regenerable:
+#     python scripts/bootstrap.py            # dataset + dictionaries + espeak
+#     python src/pipeline.py all             # rebuild lexicon / outputs
+# =============================================================================
+
+# ---- raw dataset: 3.3 GB, third-party (derives from the Facebook 533M leak) ----
+# NEVER commit this. See README "Data source & privacy".
+external/
+work/extract/
+
+# ---- scratch / intermediates ----
+work/
+*.duckdb
+*.duckdb.wal
+
+# ---- generated parquet (rebuild with src/pipeline.py) ----
+profile/*.parquet
+profile/*.csv
+output/*.parquet
+output/dataset_with_ipa/
+
+# ---- downloaded third-party resources (scripts/bootstrap.py) ----
+g2p_eval/espeak/
+g2p_eval/models/
+g2p_eval/lexicons/
+g2p_eval/lexicons_split/
+g2p_eval/name_tokens/
+g2p_eval/dl/
+g2p_eval/hf_cache/
+g2p_eval/wheel_cache/
+g2p_eval/pylibs/
+g2p_eval/pylibs_torch/
+g2p_eval/tmp*/
+g2p_eval/.venv/
+
+# ---- demo output is generated on demand (docs/showcase.html is the committed one) ----
+demo/audio/
+demo/index.html
+demo/demo_data.json
+demo/demo_summary.json
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- editors / OS ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- local config / secrets ----
+.env
+.env.*
+!.env.example

@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+dan                 	d ɑː n                      	dˈɑːn                       	0.00	0.00
+muskedunder         	m ɵ s k ɛ d ɵ n d ɛ r       	mˈɵsxədˌɵndər               	0.27	0.09
+vabba               	² v a b a                   	vˈaba                       	0.20	0.00
+snida               	s n iː d a                  	snˈiːda                     	0.00	0.00
+nödrim              	n øː d r ɪ m                	nˈœdriːm                    	0.33	0.12
+rotting             	² r ɔ t ɪ ŋ                 	rˈɔtːɪŋ                     	0.33	0.05
+tofsvipa            	t ɔ f s v iː p a            	tˈɔfsviːpˌa                 	0.00	0.00
+kolymasnäppa        	k ɔ l yː m a s n ɛ p a      	kˈuːlyːmˌasnəpˌa            	0.18	0.10
+jävig               	j ɛː v ɪ                    	jˈɛːvɪɡ                     	0.25	0.25
+hjärtansfröjd       	² j ɛ r t a n s ² f r œ j d 	jˌɛtansfrˈœjd               	0.21	0.08
+leddjur             	l eː d j ʉː r               	ləjˈʉr                      	0.50	0.31
+grym                	ɡ r ʏ mː                    	ɡrˈyːm                      	0.50	0.22
+social              	s o s i ɑː l                	sʊsˈɪal                     	0.50	0.15
+wiki                	v iː k ɪ                    	vˈiːkiː                     	0.25	0.09
+vitsenap            	v iː t s eː n a p           	vˈɪtsənˌap                  	0.25	0.12
+växellåda           	v ɛ k s ɛ l l oː d a        	vˈɛksəlˌoːda                	0.20	0.12
+skurits             	² s k ʉː r ɪ t s            	skˈʉrɪts                    	0.25	0.04
+dag                 	d ɑː                        	dˈɑːɡ                       	0.50	0.50
+kommunvapnen        	k ɔ m ʉː n v ɑː p n ɛ n     	kɔmˈʉnvapnən                	0.27	0.08
+intressant          	ɪ n t r ɛ s a nː t          	ˈɪntrəsˌant                 	0.22	0.06
+sprida              	s p r iː d a                	sprˈiːda                    	0.00	0.00
+smutsgam            	s m ɵ t s ɡ ɑː m            	smˈʉtsɡam                   	0.25	0.11
+journal             	ɧ ʊ ɳ ɑː l                  	sxʊrnˈɑːl                   	0.80	0.62
+kolasås             	k ɔ l a s oː s              	kˈuːlasˌoːs                 	0.14	0.12
+gott                	ɡ ɔ t                       	ɡˈɔt                        	0.00	0.00

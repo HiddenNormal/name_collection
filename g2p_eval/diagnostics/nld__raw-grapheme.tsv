@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+manoeuvre           	m aː n œː v r ə             	manoeuvre                   	0.71	0.46
+boeien              	b u i̯ ə                    	boeien                      	1.25	0.97
+omverschoppen       	ɔ m v ɛ r s x ɔ p ə         	omverschoppen               	0.80	0.45
+speelgoedauto's     	s p eː l ɣ u t oː t oː s    	speelgoedauto's             	0.91	0.62
+pakking             	p ɑ k ɪ ŋ                   	pakking                     	1.00	0.65
+cederolie           	s eː d ə r oː l i           	cederolie                   	0.62	0.36
+lichtgekleurde      	l ɪ x t ɣ ə k l øː r d ə    	lichtgekleurde              	0.67	0.43
+kubiekwortel        	k y b iː k ʋ ɔ r t ə l      	kubiekwortel                	0.55	0.27
+kerkendom           	k ɛ r k ə d ɔ m             	kerkendom                   	0.50	0.20
+bekouten            	b ə k ɑ u̯ t ə              	bekouten                    	0.71	0.48
+puntdicht           	p ʏ n d ɪ x t               	puntdicht                   	0.71	0.50
+bloemen             	b l u m ə                   	bloemen                     	0.80	0.57
+joker               	j oː k ə r                  	joker                       	0.40	0.12
+cosmogonie          	k ɔ s m oː ɣ oː n i         	cosmogonie                  	0.67	0.32
+implosie            	ɪ m p l oː z i              	implosie                    	0.57	0.21
+handsfree           	ɦ ɛ n t s f r iː            	handsfree                   	0.62	0.30
+krachtproef         	k r ɑ x t p r u f           	krachtproef                 	0.56	0.38
+dichtbundel         	d ɪ x t b ʏ n d ə l         	dichtbundel                 	0.50	0.29
+snelverband         	s n ɛ l v ə r b ɑ n t       	snelverband                 	0.36	0.07
+schaaldier          	s x aː l d i r              	schaaldier                  	0.71	0.57
+privéleven          	p r i v eː l eː v ə         	privéleven                  	0.44	0.21
+hoofsheid           	ɦ oː f s ɦ ɛ ɪ t            	hoofsheid                   	0.88	0.23
+krijgsgevangene     	k r ɛ i̯ x s x ə v ɑ ŋ ə n ə	krijgsgevangene             	0.71	0.42
+pelagianisme        	p eː l aː ɣ i aː n ɪ s m ə  	pelagianisme                	0.50	0.19
+tilapia             	t i l aː p i aː             	tilapia                     	0.29	0.07

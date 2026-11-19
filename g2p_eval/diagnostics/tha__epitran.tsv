@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+ชนม                 	t͡ɕʰ o n ˧ m a ˦˥           	t͡ɕʰanom                    	0.62	0.50
+ตึง                 	t ɯ ŋ ˧                     	tɯŋ                         	0.25	0.00
+น้า                 	n aː ˦˥                     	naː                         	0.50	0.00
+โคไพร               	kʰ oː ˧ pʰ r a j ˧          	kʰoːpʰajraʔ                 	0.62	0.50
+กรรโชก              	k a n ˧ t͡ɕʰ oː k̚ ˥˩       	konrat͡ɕʰoːk                	0.67	0.42
+สหภาพ               	s a ˨˩ h a ˨˩ pʰ aː p̚ ˥˩   	sohpʰaːp                    	0.69	0.21
+สวนหลังบ้าน         	s u a̯ n ˩˩˦ l a ŋ ˩˩˦ b aː n ˥˩	sownahalaŋbaːn              	0.56	0.45
+ผี                  	pʰ iː ˩˩˦                   	pʰiː                        	0.60	0.00
+อิทธิพล             	ʔ i t̚ ˨˩ tʰ i ˦˥ pʰ o n ˧  	ʔittʰipʰon                  	0.46	0.00
+ลายน้ำ              	l aː j ˧ n aː m ˦˥          	laːjnam                     	0.44	0.04
+บ่ม                 	b o m ˨˩                    	bom                         	0.40	0.00
+คูหา                	kʰ uː ˧ h aː ˩˩˦            	kʰuːhaː                     	0.50	0.00
+ฮาร์ตฟอร์ด          	h aː t̚ ˦˥ f ɔː t̚ ˨˩       	haːtfɔːt                    	0.60	0.00
+สมเดจ์พระ           	s o m ˩˩˦ d e t̚ ˨˩ pʰ r a ʔ ˦˥	somdeːpʰraʔ                 	0.53	0.12
+ไท้                 	tʰ a j ˦˥                   	tʰaj                        	0.40	0.00
+เก็บตัว             	k e p̚ ˨˩ t u a̯ ˧          	keːbtuːa̯                   	0.67	0.10
+หมีหมา              	m iː ˩˩˦ m aː ˩˩˦           	hamiːhmaː                   	0.80	0.75
+ยี่สิบแปด           	j iː ˥˩ s i p̚ ˨˩ p ɛː t̚ ˨˩	jiːsibpɛːt                  	0.57	0.02
+ทึ้ง                	tʰ ɯ ŋ ˦˥                   	tʰɯŋ                        	0.40	0.00
+การต่อรอง           	k aː n ˧ t ɔː ˨˩ r ɔː ŋ ˧   	kaːntɔːrɔːŋ                 	0.33	0.00
+เย                  	j eː ˧                      	jeː                         	0.33	0.00
+การสัญญา            	k aː n ˧ s a n ˩˩˦ j aː ˧   	kaːnsajajaː                 	0.46	0.25
+อาหารจานด่วน        	ʔ aː ˧ h aː n ˩˩˦ t͡ɕ aː n ˧ d u a̯ n ˨˩	ʔaːhaːnt͡ɕaːnotwon          	0.53	0.26
+พลิกแพลง            	pʰ l i k̚ ˦˥ pʰ l ɛː ŋ ˧    	pʰlikpʰɛːloŋ                	0.55	0.23
+ซีริลลิก            	s iː ˧ r i l ˧ l i k̚ ˨˩    	siːrinlik                   	0.50	0.12

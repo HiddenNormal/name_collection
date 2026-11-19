@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+addition            	ə d ˈɪ ʃ ə n                	ə d ɪ ʃ ə n                 	0.00	0.00
+alas                	ə l ˈæ s                    	ə l æ s                     	0.00	0.00
+aliyah              	ə l ˈi ə                    	ə l iː j ɑː                 	0.75	0.50
+artful              	ˈɑ ɹ t f ə l                	ɑ ɹ t f l                   	0.17	0.17
+aurora              	ɚ ˈɔ ɹ ə                    	ɔ ɹ ɔ ɹ ə                   	0.50	0.50
+avid                	ˈæ v ə d                    	æ v ə d                     	0.00	0.00
+bane                	b ˈeɪ n                     	b e ɪ n                     	0.00	0.00
+bang                	b ˈæ ŋ                      	b e ɪ̯ ŋ                    	0.67	0.42
+bay                 	b ˈeɪ                       	b e ɪ̯                      	0.33	0.33
+ben                 	b ˈɛ n                      	b ɛ n                       	0.00	0.00
+benefit             	b ˈɛ n ə f ɪ t              	b ɛ n ə f ɪ t               	0.00	0.00
+beret               	b ˈɛ ɹ ə t                  	b ə ɹ e ɪ                   	0.60	0.33
+berk                	b ˈɝ k                      	b ɝ k                       	0.00	0.00
+birdie              	b ˈɝ d i                    	b ɝ d i                     	0.00	0.00
+blaze               	b l ˈeɪ z                   	b l e ɪ z                   	0.00	0.00
+boar                	b ˈɔ ɹ                      	b o ɹ                       	0.33	0.04
+bob                 	b ˈɑ b                      	b ɑ b                       	0.00	0.00
+cab                 	k ˈæ b                      	k æ b                       	0.00	0.00
+carry               	k ˈæ ɹ i                    	k e ɹ i                     	0.25	0.06
+cassia              	k ˈæ ʃ i ə                  	k æ s i ə                   	0.20	0.07
+celebrate           	s ˈɛ l ə b ɹ ˌeɪ t          	s ɛ l ə b ɹ e ɪ t           	0.00	0.00
+chara               	tʃ ˈɑ ɹ ə                   	k ɑː ɹ ə                    	0.50	0.31
+chunk               	tʃ ˈʌ ŋ k                   	t͡ʃ ʌ ŋ k                   	0.00	0.00
+corner              	k ˈɔ ɹ n ɚ                  	k ɔ ɹ n ɚ                   	0.00	0.00
+cornerstone         	k ˈɔ ɹ n ɚ s t ˌoʊ n        	k ɔ ɹ n ɚ s t o ʊ n         	0.00	0.00

@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+ngớp                	ŋ əː p̚ ˧˦                  	ngớp                        	1.00	0.88
+thêm                	tʰ e m ˧˧                   	θêm                         	0.80	0.25
+trộm                	t͡ɕ o m ˧˨ ʔ                	trộm                        	1.00	0.75
+chông               	t͡ɕ ə w ŋ͡m ˧˧              	tʃông                       	1.00	0.78
+khí                 	x i ˧˦                      	khí                         	1.00	0.75
+quê                 	k w e ˧˧                    	kvê                         	0.80	0.33
+giại                	z aː j ˧˨ ʔ                 	giại                        	1.00	1.00
+cáy                 	k a j ˧˦                    	káj                         	0.60	0.00
+rán                 	z aː n ˧˦                   	rán                         	0.80	0.42
+viên                	v i ə n ˧˧                  	viên                        	0.50	0.09
+cô                  	k o ˧˧                      	kô                          	0.75	0.00
+ngủ                 	ŋ u ˧˩                      	ngủ                         	1.00	1.00
+vây                 	v ə j ˧˧                    	vâj                         	0.60	0.12
+kho                 	x ɔ ˧˧                      	kho                         	1.00	0.81
+trương              	t͡ɕ ɨ ə ŋ ˧˧                	trương                      	1.00	1.22
+tinh                	t ï ŋ ˧˧                    	tinh                        	0.80	0.67
+thiếu               	tʰ i ə w ˧˦                 	θiếu                        	0.83	0.53
+album               	ʔ aː n ˧˧ ʔ ɓ u m ˧˧        	album                       	0.82	0.48
+ngấm                	ŋ ə m ˧˦                    	ngấm                        	1.00	0.79
+trủ                 	t͡ɕ u ˧˩                    	trủ                         	1.00	1.00
+hèn                 	h ɛ n ˨˩                    	hèn                         	0.60	0.04
+rạn                 	z aː n ˧˨ ʔ                 	rạn                         	0.83	0.56
+chăn                	t͡ɕ a n ˧˧                  	tʃăn                        	0.80	0.17
+tua                 	t u ə ˧˧                    	tua                         	0.60	0.12
+dữ                  	z ɨ ˦ˀ˥                     	dữ                          	1.00	0.71

@@ -1,0 +1,44 @@
+{
+ "stage": "join",
+ "countries": {
+  "FJ": {
+   "rows": 5362,
+   "prepare_s": 0.23,
+   "first_ipa_pct": 99.98,
+   "last_ipa_pct": 99.93,
+   "full_row_ipa_pct": 99.91,
+   "out_path": "E:\\Repos\\name_collection\\output\\dataset_with_ipa\\FJ.parquet",
+   "out_mb": 0.3
+  },
+  "IS": {
+   "rows": 31343,
+   "prepare_s": 1.73,
+   "first_ipa_pct": 100.0,
+   "last_ipa_pct": 100.0,
+   "full_row_ipa_pct": 100.0,
+   "out_path": "E:\\Repos\\name_collection\\output\\dataset_with_ipa\\IS.parquet",
+   "out_mb": 1.27
+  },
+  "EE": {
+   "rows": 87529,
+   "prepare_s": 3.34,
+   "first_ipa_pct": 100.0,
+   "last_ipa_pct": 100.0,
+   "full_row_ipa_pct": 99.99,
+   "out_path": "E:\\Repos\\name_collection\\output\\dataset_with_ipa\\EE.parquet",
+   "out_mb": 3.72
+  }
+ },
+ "oov": {
+  "oov_units": 34674,
+  "resolved": 34659,
+  "unresolved": 15,
+  "by_source": {
+   "g2p:espeak": 34659,
+   "unresolved:no-voice": 15
+  }
+ },
+ "oov_seconds": 1.0,
+ "lexicon_entries": 1621451,
+ "elapsed_s": 9.0
+}

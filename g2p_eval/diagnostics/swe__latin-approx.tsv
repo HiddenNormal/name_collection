@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+dan                 	d ɑː n                      	dan                         	0.33	0.12
+muskedunder         	m ɵ s k ɛ d ɵ n d ɛ r       	muskedunder                 	0.36	0.14
+vabba               	² v a b a                   	vabba                       	0.40	0.25
+snida               	s n iː d a                  	snida                       	0.20	0.05
+nödrim              	n øː d r ɪ m                	nödrim                      	0.33	0.10
+rotting             	² r ɔ t ɪ ŋ                 	rotting                     	1.00	0.65
+tofsvipa            	t ɔ f s v iː p a            	tofsvipa                    	0.25	0.05
+kolymasnäppa        	k ɔ l yː m a s n ɛ p a      	koljmasnäppa                	0.36	0.25
+jävig               	j ɛː v ɪ                    	dʒävig                      	1.00	0.75
+hjärtansfröjd       	² j ɛ r t a n s ² f r œ j d 	hdʒärtansfrödʒd             	0.43	0.33
+leddjur             	l eː d j ʉː r               	ledddʒur                    	0.67	0.44
+grym                	ɡ r ʏ mː                    	grjm                        	0.50	0.31
+social              	s o s i ɑː l                	sokial                      	0.33	0.23
+wiki                	v iː k ɪ                    	viki                        	0.50	0.09
+vitsenap            	v iː t s eː n a p           	vitsenap                    	0.25	0.06
+växellåda           	v ɛ k s ɛ l l oː d a        	väksellåda                  	0.30	0.15
+skurits             	² s k ʉː r ɪ t s            	skurits                     	0.38	0.07
+dag                 	d ɑː                        	dag                         	1.00	0.69
+kommunvapnen        	k ɔ m ʉː n v ɑː p n ɛ n     	kommunvapnen                	0.45	0.18
+intressant          	ɪ n t r ɛ s a nː t          	intressant                  	0.44	0.17
+sprida              	s p r iː d a                	sprida                      	0.17	0.04
+smutsgam            	s m ɵ t s ɡ ɑː m            	smutsgam                    	0.25	0.12
+journal             	ɧ ʊ ɳ ɑː l                  	dʒournal                    	1.20	0.81
+kolasås             	k ɔ l a s oː s              	kolasås                     	0.29	0.12
+gott                	ɡ ɔ t                       	gott                        	0.67	0.38

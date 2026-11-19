@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+modlitba            	m o d l ɪ d b a             	modlitba                    	0.25	0.03
+hladě               	ɦ l a ɟ ɛ                   	hladě                       	0.60	0.21
+plašíce             	p l a ʃ iː t͡s ɛ            	plašíke                     	0.62	0.34
+pančovat            	p a n t͡ʃ o v a t           	pančovat                    	0.12	0.12
+laloch              	l a l o x                   	lalotʃ                      	0.20	0.20
+petrklíč            	p ɛ t r̩ k l iː t͡ʃ         	petrklíč                    	0.50	0.30
+zavšivený           	z a f ʃ ɪ v ɛ n iː          	zavšivený                   	0.56	0.17
+zdvižen             	z d v ɪ ʒ ɛ n               	zdvižen                     	0.43	0.09
+robit               	r o b ɪ t                   	robit                       	0.20	0.03
+přistál             	p r̝̊ ɪ s t aː l            	přistál                     	0.43	0.05
+žihadlo             	ʒ ɪ ɦ a d l o               	žihadlo                     	0.43	0.09
+cifer               	t͡s ɪ f ɛ r                 	kifer                       	0.67	0.38
+relevantní          	r ɛ l ɛ v a n t ɲ iː        	relevantní                  	0.40	0.13
+akciový             	a k t͡s ɪ j o v iː          	akkiový                     	0.56	0.43
+střílen             	s t r̝̊ iː l ɛ n            	střílen                     	0.43	0.05
+vílám               	v iː l aː m                 	vílám                       	0.40	0.10
+kbelík              	ɡ b ɛ l iː k                	kbelík                      	0.50	0.23
+stehno              	s t ɛ ɦ n o                 	stehno                      	0.33	0.04
+číšnice             	t͡ʃ iː ʃ ɲ ɪ t͡s ɛ          	číšnike                     	1.00	0.59
+žen                 	ʒ ɛ n                       	žen                         	0.67	0.17
+dně                 	d ɲ ɛ                       	dně                         	0.67	0.31
+integrální          	ɪ n t ɛ ɡ r aː l ɲ iː       	integrální                  	0.50	0.16
+výsada              	v iː s a d a                	výsada                      	0.17	0.12
+těleso              	c ɛ l ɛ s o                 	těleso                      	0.50	0.18
+tanouc              	t a n o u̯ t͡s              	tanouk                      	0.43	0.43

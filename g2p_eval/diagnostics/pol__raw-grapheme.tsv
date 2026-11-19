@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+arcyśmieszny        	a r t͡s ɘ ɕ m j ɛ ʂ n ɘ     	arcyśmieszny                	0.75	0.57
+jodłowała           	j ɔ d w ɔ v a w a           	jodłowała                   	0.56	0.36
+ubiczowanie         	u b i t͡ʂ ɔ v a ɲ ɛ         	ubiczowanie                 	0.70	0.42
+zasila              	z a ɕ i l a                 	zasila                      	0.17	0.15
+bombowiec           	b ɔ m b ɔ v j ɛ t͡s         	bombowiec                   	0.70	0.42
+wyglądałyśmy        	v ɘ ɡ l ɔ n d a w ɘ ɕ m ɘ   	wyglądałyśmy                	0.62	0.55
+przytępiać          	p ʂ ɘ t ɛ m p j a t͡ɕ       	przytępiać                  	0.70	0.54
+ostrogo             	ɔ s t r ɔ ɡ ɔ               	ostrogo                     	0.43	0.05
+adoracją            	a d ɔ r a t͡s j ɔ w̃        	adoracją                    	0.50	0.36
+bałagan             	b a w a ɡ a n               	bałagan                     	0.14	0.14
+wdzięczny           	v d͡ʑ ɛ n t͡ʂ n ɘ           	wdzięczny                   	1.00	0.80
+odjechanie          	ɔ d j ɛ x a ɲ ɛ             	odjechanie                  	0.88	0.49
+gwałtem             	ɡ v a w t ɛ m               	gwałtem                     	0.43	0.30
+kosztowaliśmy       	k ɔ ʂ t ɔ v a l i ɕ m ɘ     	kosztowaliśmy               	0.58	0.35
+ekskluzywny         	ɛ k s k l u z ɘ v n ɘ       	ekskluzywny                 	0.36	0.26
+gruzińskim          	ɡ r u ʑ i ɲ s k i m         	gruzińskim                  	0.20	0.17
+śmierć              	ɕ m j ɛ r t͡ɕ               	śmierć                      	0.67	0.50
+uprzedzenie         	u p ʂ ɛ d͡z ɛ ɲ ɛ           	uprzedzenie                 	0.78	0.40
+żubrowi             	ʐ u b r ɔ v i               	żubrowi                     	0.43	0.20
+zautonomizowałeś    	z a w t ɔ n ɔ m i z ɔ v a w ɛ ɕ	zautonomizowałeś            	0.50	0.27
+wgrać               	v ɡ r a t͡ɕ                 	wgrać                       	0.40	0.40
+partnerkom          	p a r t n ɛ r k ɔ m         	partnerkom                  	0.20	0.03
+rozmasować          	r ɔ z m a s ɔ v a t͡ɕ       	rozmasować                  	0.40	0.23
+dźwiękonaśladowczy  	d͡ʑ v j ɛ ŋ k ɔ n a ɕ l a d ɔ f t͡ʂ ɘ	dźwiękonaśladowczy          	0.67	0.44
+bachnęliście        	b a x n ɛ l i ɕ t͡ɕ ɛ       	bachnęliście                	0.70	0.49

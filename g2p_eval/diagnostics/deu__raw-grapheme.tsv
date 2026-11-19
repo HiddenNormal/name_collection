@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+unterscheiden       	ʊ n t ə r ʃ a ɪ̯ d ə n      	unterscheiden               	0.73	0.45
+weilen              	v a ɪ̯ l ə n                	weilen                      	0.67	0.48
+riss                	ʁ ɪ s                       	riss                        	1.00	0.71
+becherförmigen      	b ɛ ç ɐ f œ ʁ m ɪ ɡ n̩      	becherförmigen              	0.91	0.56
+klappern            	k l a p ɐ n                 	klappern                    	0.50	0.33
+weiterführen        	v a ɪ̯ t ɐ f yː ʁ ə n       	weiterführen                	0.90	0.64
+warmblütig          	v a ʁ m b l yː t ɪ ç        	warmblütig                  	0.50	0.36
+russlandfreundlicher	ʁ ʊ s l a n t f ʁ ɔ ɪ̯ n t l ɪ ç ɐ	russlandfreundlicher        	0.76	0.46
+hinterfotzig        	h ɪ n t ɐ f ɔ t͡s ɪ ç       	hinterfotzig                	0.64	0.23
+fünftausend         	f ʏ n f t a ʊ z n̩ t        	fünftausend                 	0.60	0.33
+mehrfach            	m eː ɐ̯ f a x               	mehrfach                    	0.83	0.67
+schmerzhaft         	ʃ m ɛ ʁ t͡s h a f t         	schmerzhaft                 	0.70	0.46
+russlandfreundlich  	ʁ ʊ s l a n t f ʁ ɔ ɪ̯ n t l ɪ ç	russlandfreundlich          	0.69	0.43
+verflixt            	f ɛ ɐ̯ f l ɪ k s t          	verflixt                    	0.67	0.32
+dreispurig          	d ʁ a ɪ̯ ʃ p uː ʁ ɪ ç       	dreispurig                  	0.80	0.53
+pachten             	p a x t ə n                 	pachten                     	0.50	0.35
+erklärender         	ɛ ɐ̯ k l ɛː ʁ ə n d ɐ       	erklärender                 	0.70	0.44
+erschießen          	ʔ ɛ ɐ̯ ʃ iː s n̩            	erschießen                  	1.43	1.25
+knüll               	k n ʏ l                     	knüll                       	0.50	0.41
+partout             	p a r t uː                  	partout                     	0.60	0.45
+leakst              	l iː k s t                  	leakst                      	0.40	0.30
+unterschlüpfen      	ʊ n t ə r ʃ l ʏ p f ə n     	unterschlüpfen              	0.58	0.34
+wundern             	v ʊ n d ɐ n                 	wundern                     	0.67	0.40
+leisten             	l a ɪ̯ s t n̩               	leisten                     	0.67	0.58
+vierbeinig          	f iː ɐ̯ b a ɪ̯ n ɪ k        	vierbeinig                  	0.89	0.56

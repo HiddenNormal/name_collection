@@ -1,0 +1,106 @@
+country,primary_voice,primary_language,secondary_voices,scripts,notes
+AE,ar,Arabic,"en,hi",Arab,MSA voice; Gulf names may differ
+AF,fa,Dari (proxy),ar,Arab,Pashto (ps) unsupported; fa is closest
+AL,sq,Albanian,"it,el",Latn,
+AO,pt-pt,Portuguese,,Latn,pt-PT variety
+AR,es-419,Spanish (LatAm),"en,it",Latn,
+AT,de,German,"tr,sl,hr,hu",Latn,
+AZ,az,Azerbaijani,"ru,tr",Latn,5% Cyrillic
+BD,bn,Bengali,"en,hi",Beng,10% Bengali script
+BE,nl,Dutch,"fr-fr,de",Latn,Flemish vs Walloon mix
+BF,fr-fr,French,,Latn,
+BG,bg,Bulgarian,"tr,ru",Cyrl,30% Cyrillic
+BH,ar,Arabic,en,Arab,
+BI,fr-fr,French (fallback),sw,Latn,Kirundi unsupported; French shaky proxy
+BN,ms,Malay,"cmn,en",Latn,
+BO,es-419,Spanish (LatAm),qu,Latn,
+BR,pt-br,Portuguese (BR),"de,it",Latn,
+BW,en,English,tn,Latn,Tswana unsupported
+CA,en-us,English,fr-ca,Latn,
+CH,de,German,"fr-ch,it",Latn,
+CL,es-419,Spanish (LatAm),,Latn,
+CM,fr-fr,French,en,Latn,
+CN,cmn-latn-pinyin,Mandarin (romanised),"cmn,en","Latn,Hani",95% Latin/pinyin; use pinyin voice on Latn tokens
+CO,es-419,Spanish (LatAm),,Latn,
+CR,es-419,Spanish (LatAm),,Latn,
+CY,el,Greek,tr,Grek,4.5% Greek + 1.3% Arabic/Cyrillic
+CZ,cs,Czech,"sk,de",Latn,
+DE,de,German,"tr,pl,ru",Latn,
+DJ,fr-fr,French,ar,Latn,
+DK,da,Danish,en,Latn,
+DZ,ar,Arabic,fr-fr,"Latn,Arab",14% Arabic script
+EC,es-419,Spanish (LatAm),,Latn,
+EE,et,Estonian,ru,"Latn,Cyrl",12% Cyrillic
+EG,ar,Arabic,en,Arab,50% Arabic script; MSA voice approximates Egyptian
+ES,es-es,Spanish (Spain),ca,Latn,Galician (gl) unsupported
+ET,am,Amharic,en,"Latn,Ethi",4% Ethiopic
+FI,fi,Finnish,sv,Latn,
+FJ,en,English,hi,Latn,Fijian unsupported
+FR,fr-fr,French,"ar,pt-pt,it",Latn,
+GB,en-gb,English (UK),"hi,pl,ur",Latn,
+GE,ka,Georgian,ru,"Latn,Geor","10% Georgian, 4% Cyrillic"
+GH,en,English,,Latn,Twi/Ewe unsupported
+GR,el,Greek,en,"Latn,Grek",18% Greek script
+GT,es-419,Spanish (LatAm),quc,Latn,
+HK,yue,Cantonese,en,"Latn,Hani",2.5% Han
+HN,es-419,Spanish (LatAm),,Latn,
+HR,hr,Croatian,sr,Latn,
+HT,ht,Haitian Creole,fr-fr,Latn,
+HU,hu,Hungarian,de,Latn,
+ID,id,Indonesian,"ms,cmn",Latn,
+IE,en-gb,English,ga,Latn,
+IL,he,Hebrew,"ar,ru","Latn,Hebr,Arab","22% Hebrew, 14% Arabic"
+IN,hi,Hindi,"bn,ta,te,gu,kn,ml,mr,pa,ur","Latn,Deva",multi-language; 1.4% Devanagari
+IQ,ar,Arabic,ku,Arab,76% Arabic script
+IR,fa,Persian,az,"Latn,Arab",8% Arabic script
+IS,is,Icelandic,en,Latn,is voice weak on names
+IT,it,Italian,"de,fr-fr",Latn,
+JM,en,English,,Latn,
+JO,ar,Arabic,,"Latn,Arab",50% Arabic script
+JP,ja,Japanese,en,"Latn,Hani,Kana",94% Latin romanised; ja voice fails on kanji
+KH,en,English (Khmer unsupported),,"Latn,Khmr",31% Khmer script -> UNRESOLVED; espeak has no km voice
+KR,ko,Korean,en,"Hang,Latn",51% Hangul
+KW,ar,Arabic,en,Latn,
+KZ,kk,Kazakh,ru,"Cyrl,Latn",74% Cyrillic
+LB,ar,Arabic,fr-fr,"Latn,Arab",22% Arabic script
+LT,lt,Lithuanian,"ru,pl",Latn,
+LU,lb,Luxembourgish,"fr-fr,de",Latn,
+LY,ar,Arabic,,"Latn,Arab",67% Arabic script
+MA,ar,Arabic,fr-fr,"Latn,Arab",Moroccan Arabic differs from MSA
+MD,ro,Romanian,ru,"Latn,Cyrl",25% Cyrillic
+MO,yue,Cantonese,cmn,"Latn,Hani",3% Han
+MT,mt,Maltese,en,Latn,
+MU,en,English,fr-fr,Latn,Mauritian Creole unsupported
+MV,en,English (Dhivehi unsupported),hi,"Latn,Thaa",Thaana 0.18% -> UNRESOLVED; no dv voice
+MX,es-mx,Spanish (MX),,Latn,
+MY,ms,Malay,"cmn,ta,en",Latn,
+NA,en,English,af,Latn,
+NG,en,English,,Latn,Yoruba/Igbo/Hausa unsupported
+NL,nl,Dutch,en,Latn,
+NO,nb,Norwegian,en,Latn,
+OM,ar,Arabic,,"Latn,Arab",16% Arabic script
+PA,es-419,Spanish (LatAm),,Latn,
+PE,es-419,Spanish (LatAm),qu,Latn,
+PH,en,English,id,Latn,Tagalog unsupported; id as Austronesian proxy
+PL,pl,Polish,de,Latn,
+PR,es-419,Spanish (LatAm),en,Latn,
+PS,ar,Arabic,he,"Latn,Arab,Hebr","27% Arabic, 12% Hebrew"
+PT,pt-pt,Portuguese (PT),,Latn,
+QA,ar,Arabic,en,Latn,
+RS,sr,Serbian,"hr,hu","Latn,Cyrl",mostly Latin; sr voice is Cyrillic-biased
+RU,ru,Russian,"tt,uk",Cyrl,75% Cyrillic
+SA,ar,Arabic,en,"Latn,Arab",31% Arabic script
+SD,ar,Arabic,,"Latn,Arab",78% Arabic script
+SE,sv,Swedish,en,Latn,
+SG,en-gb,English,"cmn,ms,ta",Latn,
+SI,sl,Slovenian,"hr,de",Latn,
+SV,es-419,Spanish (LatAm),,Latn,El Salvador
+SY,ar,Arabic,fr-fr,"Latn,Arab",59% Arabic script
+TM,tk,Turkmen,ru,"Latn,Cyrl",30% Cyrillic
+TN,ar,Arabic,fr-fr,"Latn,Arab",
+TR,tr,Turkish,"ku,ar",Latn,
+TW,cmn-latn-pinyin,Mandarin (romanised),"cmn,en","Latn,Hani",87% Latin; mixed romanisation schemes
+US,en-us,English,"es-419,cmn,vi,ko",Latn,heritage names; anglicised G2P intended
+UY,es-419,Spanish (LatAm),,Latn,
+YE,ar,Arabic,,"Latn,Arab",86% Arabic script
+ZA,en,English,af,Latn,Zulu/Xhosa unsupported

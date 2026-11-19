@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+ngớp                	ŋ əː p̚ ˧˦                  	ŋɤp                         	0.80	0.17
+thêm                	tʰ e m ˧˧                   	tʰem                        	0.40	0.00
+trộm                	t͡ɕ o m ˧˨ ʔ                	com                         	0.67	0.50
+chông               	t͡ɕ ə w ŋ͡m ˧˧              	coŋ                         	0.86	0.68
+khí                 	x i ˧˦                      	xi                          	0.50	0.00
+quê                 	k w e ˧˧                    	kwe                         	0.40	0.00
+giại                	z aː j ˧˨ ʔ                 	zaj                         	0.67	0.31
+cáy                 	k a j ˧˦                    	kăj                         	0.60	0.00
+rán                 	z aː n ˧˦                   	zan                         	0.60	0.08
+viên                	v i ə n ˧˧                  	viən                        	0.33	0.00
+cô                  	k o ˧˧                      	ko                          	0.50	0.00
+ngủ                 	ŋ u ˧˩                      	ŋu                          	0.50	0.00
+vây                 	v ə j ˧˧                    	vɤ̆j                        	0.60	0.08
+kho                 	x ɔ ˧˧                      	xɔ                          	0.50	0.00
+trương              	t͡ɕ ɨ ə ŋ ˧˧                	cɯəŋ                        	0.67	0.28
+tinh                	t ï ŋ ˧˧                    	tiɲ                         	0.80	0.08
+thiếu               	tʰ i ə w ˧˦                 	tʰiəw                       	0.33	0.00
+album               	ʔ aː n ˧˧ ʔ ɓ u m ˧˧        	ʔalbum                      	0.73	0.34
+ngấm                	ŋ ə m ˧˦                    	ŋɤ̆m                        	0.60	0.08
+trủ                 	t͡ɕ u ˧˩                    	cu                          	0.75	0.50
+hèn                 	h ɛ n ˨˩                    	hɛn                         	0.40	0.00
+rạn                 	z aː n ˧˨ ʔ                 	zan                         	0.67	0.31
+chăn                	t͡ɕ a n ˧˧                  	căn                         	0.80	0.33
+tua                 	t u ə ˧˧                    	twa                         	0.80	0.46
+dữ                  	z ɨ ˦ˀ˥                     	zɯ                          	0.75	0.38

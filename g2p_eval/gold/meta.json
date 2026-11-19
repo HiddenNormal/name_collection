@@ -1,0 +1,188 @@
+{
+  "seed": 42,
+  "n_gold": 1200,
+  "languages": {
+    "ara": {
+      "source": "ara_arab_broad.tsv",
+      "n_raw": 17563,
+      "n_kept": 14231,
+      "n_gold": 1200,
+      "n_train": 13031
+    },
+    "ces": {
+      "source": "ces_latn_narrow.tsv",
+      "n_raw": 65070,
+      "n_kept": 53592,
+      "n_gold": 1200,
+      "n_train": 52392
+    },
+    "cmn": {
+      "source": "cmn_hani_standard_broad.tsv",
+      "n_raw": 168655,
+      "n_kept": 136937,
+      "n_gold": 1200,
+      "n_train": 135737
+    },
+    "dan": {
+      "source": "dan_latn_broad.tsv",
+      "n_raw": 4773,
+      "n_kept": 4226,
+      "n_gold": 1200,
+      "n_train": 3026
+    },
+    "deu": {
+      "source": "deu_latn_broad_filtered.tsv",
+      "n_raw": 57662,
+      "n_kept": 16307,
+      "n_gold": 1200,
+      "n_train": 15107
+    },
+    "ell": {
+      "source": "ell_grek_broad.tsv",
+      "n_raw": 19601,
+      "n_kept": 17630,
+      "n_gold": 1200,
+      "n_train": 16430
+    },
+    "eng": {
+      "source": "eng_latn_us_broad_filtered.tsv",
+      "n_raw": 105324,
+      "n_kept": 64705,
+      "n_gold": 1200,
+      "n_train": 63505
+    },
+    "fin": {
+      "source": "fin_latn_broad.tsv",
+      "n_raw": 173449,
+      "n_kept": 157677,
+      "n_gold": 1200,
+      "n_train": 156477
+    },
+    "fra": {
+      "source": "fra_latn_broad_filtered.tsv",
+      "n_raw": 97301,
+      "n_kept": 79148,
+      "n_gold": 1200,
+      "n_train": 77948
+    },
+    "heb": {
+      "source": "heb_hebr_broad.tsv",
+      "n_raw": 6811,
+      "n_kept": 2794,
+      "n_gold": 1200,
+      "n_train": 1594
+    },
+    "hin": {
+      "source": "hin_deva_broad.tsv",
+      "n_raw": 33057,
+      "n_kept": 30185,
+      "n_gold": 1200,
+      "n_train": 28985
+    },
+    "hun": {
+      "source": "hun_latn_narrow_filtered.tsv",
+      "n_raw": 64689,
+      "n_kept": 58715,
+      "n_gold": 1200,
+      "n_train": 57515
+    },
+    "ind": {
+      "source": "ind_latn_broad.tsv",
+      "n_raw": 18590,
+      "n_kept": 16487,
+      "n_gold": 1200,
+      "n_train": 15287
+    },
+    "ita": {
+      "source": "ita_latn_broad.tsv",
+      "n_raw": 89608,
+      "n_kept": 77928,
+      "n_gold": 1200,
+      "n_train": 76728
+    },
+    "jpn": {
+      "source": "jpn_hira_narrow_filtered.tsv",
+      "n_raw": 2320,
+      "n_kept": 2313,
+      "n_gold": 1200,
+      "n_train": 1113
+    },
+    "kor": {
+      "source": "kor_hang_narrow_filtered.tsv",
+      "n_raw": 36146,
+      "n_kept": 29476,
+      "n_gold": 1200,
+      "n_train": 28276
+    },
+    "nld": {
+      "source": "nld_latn_broad.tsv",
+      "n_raw": 58539,
+      "n_kept": 37733,
+      "n_gold": 1200,
+      "n_train": 36533
+    },
+    "pol": {
+      "source": "pol_latn_broad.tsv",
+      "n_raw": 157042,
+      "n_kept": 129603,
+      "n_gold": 1200,
+      "n_train": 128403
+    },
+    "por": {
+      "source": "por_latn_po_broad_filtered.tsv",
+      "n_raw": 59043,
+      "n_kept": 35674,
+      "n_gold": 1200,
+      "n_train": 34474
+    },
+    "rus": {
+      "source": "rus_cyrl_narrow.tsv",
+      "n_raw": 466668,
+      "n_kept": 398560,
+      "n_gold": 1200,
+      "n_train": 250000
+    },
+    "spa": {
+      "source": "spa_latn_la_broad_filtered.tsv",
+      "n_raw": 133085,
+      "n_kept": 125889,
+      "n_gold": 1200,
+      "n_train": 124689
+    },
+    "swe": {
+      "source": "swe_latn_broad.tsv",
+      "n_raw": 5856,
+      "n_kept": 4559,
+      "n_gold": 1200,
+      "n_train": 3359
+    },
+    "tha": {
+      "source": "tha_thai_broad.tsv",
+      "n_raw": 18416,
+      "n_kept": 16101,
+      "n_gold": 1200,
+      "n_train": 14901
+    },
+    "tur": {
+      "source": "tur_latn_broad.tsv",
+      "n_raw": 12321,
+      "n_kept": 9863,
+      "n_gold": 1200,
+      "n_train": 8663
+    },
+    "ukr": {
+      "source": "ukr_cyrl_narrow.tsv",
+      "n_raw": 53021,
+      "n_kept": 48359,
+      "n_gold": 1200,
+      "n_train": 47159
+    },
+    "vie": {
+      "source": "vie_latn_hanoi_narrow_filtered.tsv",
+      "n_raw": 27684,
+      "n_kept": 5238,
+      "n_gold": 1200,
+      "n_train": 4038
+    }
+  }
+}

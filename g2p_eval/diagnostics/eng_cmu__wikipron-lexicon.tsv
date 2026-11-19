@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+acantha             	ɑ k ˈɑ n ð ə                	ə k æ n θ ə                 	0.50	0.17
+amen                	eɪ m ˈɛ n                   	e ɪ m ɛ n                   	0.00	0.00
+answers             	ˈæ n s ɚ z                  	æ n s ɚ z                   	0.00	0.00
+asleep              	ə s l ˈi p                  	ə s l iː p                  	0.20	0.05
+bear                	b ˈɛ ɹ                      	b ɑ ɹ                       	0.33	0.25
+beefy               	b ˈi f i                    	b iː f i                    	0.25	0.06
+blankie             	b l ˈæ ŋ k ˌi               	b l e ɪ̯ ŋ k i              	0.33	0.21
+boa                 	b ˈoʊ ə                     	b o ʊ ə                     	0.00	0.00
+bogan               	b ˈoʊ g ə n                 	b o ʊ ɡ ə n                 	0.00	0.00
+booth               	b ˈu θ                      	b u θ                       	0.00	0.00
+bowl                	b ˈoʊ l                     	b o ʊ l                     	0.00	0.00
+brotherhood         	b ɹ ˈʌ ð ɚ h ˌʊ d           	b ɹ ʌ ð ɚ h ʊ d             	0.00	0.00
+cal                 	k ˈæ l                      	k æ l                       	0.00	0.00
+careerist           	k ɚ ˈɪ ɹ ɪ s t              	k ə ɹ ɪ ɹ ɪ s t             	0.29	0.29
+catena              	k ə t ˈi n ə                	k ə t iː n ə                	0.17	0.04
+ce                  	s ˌi ˈi                     	s iː                        	0.67	0.42
+cleaning            	k l ˈi n ɪ ŋ                	k l iː n ɪ ŋ                	0.17	0.04
+cock                	k ˈɑ k                      	k ɑ k                       	0.00	0.00
+coequal             	k oʊ ˈi k w ə l             	k ə ʊ iː k w ə l            	0.25	0.08
+contusion           	k ə n t ˈu ʒ ə n            	k ə n t u ʒ ə n             	0.00	0.00
+credibly            	k ɹ ˈɛ d ə b l i            	k ɹ ɛ d ə b l i             	0.00	0.00
+deemed              	d ˈi m d                    	d iː m d                    	0.25	0.06
+depilatory          	d ɪ p ˈɪ l ə t ˌɔ ɹ i       	d ə p ɪ l ə t ɔ ɹ i         	0.10	0.05
+depressant          	d ɪ p ɹ ˈɛ s ə n t          	d ɪ p ɹ ɛ s ə n t           	0.00	0.00
+deputize            	d ˈɛ p j ə t ˌaɪ z          	d ɛ p j u t a ɪ z           	0.11	0.10

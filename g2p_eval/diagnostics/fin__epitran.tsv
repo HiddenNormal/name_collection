@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+turvapaikananoja    	t u r ʋ ɑ p ɑ i̯ k ɑ n ɑ n o j ɑ	turʋɑpɑikɑnɑnojɑ            	0.06	0.06
+rutto               	r u tː o                    	rut:o                       	0.25	0.06
+imperiaalinen       	i m p e r i ɑː l i n e n    	imperiɑ:linen               	0.08	0.02
+vehtaus             	ʋ e h t ɑ u s               	ʋehtɑus                     	0.00	0.00
+raamittaa           	r ɑː m i tː ɑːˣ             	rɑ:mit:ɑ:                   	0.50	0.12
+jätevoimala         	j æ t eˣ ʋ o i̯ m ɑ l ɑ     	jæteʋoimɑlɑ                 	0.18	0.09
+kaareke             	k ɑː r e k eˣ               	kɑ:reke                     	0.33	0.04
+rönttönen           	r ø n tː ø n e n            	røn̪t:ønen                  	0.25	0.05
+sisäelinsairaus     	s i s æ e l i n s ɑ i̯ r ɑ u s	sisæelinsɑirɑus             	0.07	0.07
+muovilusikka        	m u o̯ ʋ i l u s i kː ɑ     	muoʋilusik:ɑ                	0.18	0.11
+fonotaktinen        	f o n o t ɑ k t i n e n     	fonotɑktinen                	0.00	0.00
+hämilleen           	h æ m i lː eː n             	hæmil:e:n                   	0.29	0.07
+maalisuora          	m ɑː l i s u o̯ r ɑ         	mɑ:lisuorɑ                  	0.22	0.14
+yh                  	y h                         	yh                          	0.00	0.00
+normeerautuva       	n o r m eː r ɑ u̯ t u ʋ ɑ   	norme:rɑutuʋɑ               	0.17	0.10
+pulunnussija        	p u l u n n u sː i j ɑ      	pulun:us:ijɑ                	0.18	0.11
+seurakuntakuraattori	s e u̯ r ɑ k u n t ɑ k u r ɑː tː o r i	seurɑkun̪tɑkurɑ:t:ori       	0.22	0.09
+kantaitiö           	k ɑ n t ɑ i t i ø           	kɑn̪tɑitiø                  	0.11	0.01
+sähköallergia       	s æ h k ø ɑ lː e r ɡ i ɑ    	sæhkøɑl:ergiɑ               	0.08	0.02
+viisastuttaa        	ʋ iː s ɑ s t u tː ɑːˣ       	ʋi:sɑstut:ɑ:                	0.33	0.08
+asetuttaa           	ɑ s e t u tː ɑːˣ            	ɑsetut:ɑ:                   	0.29	0.07
+riivattu            	r iː ʋ ɑ tː u               	ri:ʋɑt:u                    	0.33	0.08
+noutava             	n o u̯ t ɑ ʋ ɑ              	noutɑʋɑ                     	0.14	0.14
+kultakuoriainen     	k u l t ɑ k u o̯ r i ɑ i̯ n e n	kul̪tɑkuoriɑinen            	0.20	0.14
+ateistinen          	ɑ t e i̯ s t i n e n        	ɑteistinen                  	0.10	0.10

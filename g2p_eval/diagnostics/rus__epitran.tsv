@@ -1,0 +1,26 @@
+WORD                	GOLD                        	HYP                         	PER_bare	PER_feat
+ассигнуете          	ɐ sʲ ɪ ɡ n u j ɪ tʲ e       	asʲiɡnuetʲe                 	0.40	0.20
+русскими            	r u s kʲ ɪ mʲ ɪ             	ruskimʲi                    	0.43	0.04
+латинице            	ɫ ɐ tʲ i nʲ ɪ t͡s ɨ         	latʲinʲit͡se                	0.33	0.12
+матрице             	m a t rʲ ɪ t͡s ɨ            	matrʲit͡se                  	0.25	0.08
+прядёт              	p rʲ ɪ dʲ ɵ t               	prʲadʲot                    	0.33	0.25
+глагольте           	ɡ ɫ ɐ ɡ o lʲ tʲ e           	ɡlaɡolʲtʲe                  	0.12	0.06
+лягушатам           	lʲ ɪ ɡ ʊ ʂ a t ə m          	lʲaɡuʂatam                  	0.33	0.18
+форелью             	f ɐ r ɛ lʲ j ʊ              	forʲelʲu                    	0.71	0.30
+калинками           	k ɐ lʲ i n k ə mʲ ɪ         	kalʲinkamʲi                 	0.33	0.11
+тесло               	tʲ ɪ s ɫ o                  	tʲeslo                      	0.20	0.07
+проворил            	p r ɐ v o rʲ ɪ ɫ            	provorʲil                   	0.25	0.08
+объединяю           	ɐ b j ɪ dʲ ɪ nʲ æ j ʊ       	obʲjedʲinʲau                	0.70	0.29
+абсолютность        	ɐ p s ɐ lʲ u t n ə sʲ tʲ    	apsolʲutnostʲ               	0.36	0.15
+аукали              	ɐ u k ə lʲ ɪ                	aukalʲi                     	0.50	0.17
+облилась            	ɐ b lʲ ɪ ɫ a sʲ             	oblʲilasʲ                   	0.29	0.09
+перестанете         	pʲ ɪ rʲ ɪ s t a nʲ ɪ tʲ e   	pʲerʲestanʲetʲe             	0.27	0.10
+выговоримся         	v ɨ ɡ ə v ə rʲ ɪ m sʲ ə     	vɨɡovorʲimsʲa               	0.36	0.11
+позеленею           	p ə zʲ ɪ lʲ ɪ nʲ e j ʊ      	pozʲelʲenʲeu                	0.50	0.25
+желтевши            	ʐ ɨ ɫ tʲ e f ʂ ɨ            	ʒeltʲefʂɨ                   	0.25	0.08
+апатридам           	ɐ p ɐ t rʲ i d ə m          	apatrʲidam                  	0.33	0.15
+поимев              	p ə ɪ mʲ e f                	poimʲef                     	0.33	0.08
+выуживали           	v ɨ u ʐ ɨ v ə lʲ ɪ          	vɨuʒɨvalʲi                  	0.33	0.07
+затянутый           	z ɐ tʲ a n ʊ t ɨ j          	zatʲanutɨj                  	0.22	0.10
+подувши             	p ɐ d u f ʂ ɨ               	podufʂɨ                     	0.14	0.07
+разинутый           	r ɐ zʲ i n ʊ t ɨ j          	razʲinutɨj                  	0.22	0.10
